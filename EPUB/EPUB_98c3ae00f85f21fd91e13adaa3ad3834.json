@@ -1,0 +1,106 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/100-y-tuong-tiep-thi-tuyet-hay_19903.html#gsc.tab=0",
+    "title" : "100 Ý Tưởng Tiếp Thị Tuyệt Hay",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Jim Blythe",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "N/A",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-06",
+    "duration" : 17850,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage6/main/EPUB/EPUB_98c3ae00f85f21fd91e13adaa3ad3834.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage6/main/IMAGE/IMAGE_98c3ae00f85f21fd91e13adaa3ad3834.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/100-y-tuong-tiep-thi-tuyet-hay-nghe-thuat-tiep-thi-dinh-cao.sna/100YTuongTiepThiTuyetHayPhan01_Chuan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2695,
+    "title" : "100YTuongTiepThiTuyetHayPhan01 Chuan"
+  }, {
+    "href" : "https://archive.org/download/100-y-tuong-tiep-thi-tuyet-hay-nghe-thuat-tiep-thi-dinh-cao.sna/100YTuongTiepThiTuyetHayPhan02_Chuan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2407,
+    "title" : "100YTuongTiepThiTuyetHayPhan02 Chuan"
+  }, {
+    "href" : "https://archive.org/download/100-y-tuong-tiep-thi-tuyet-hay-nghe-thuat-tiep-thi-dinh-cao.sna/100YTuongTiepThiTuyetHayPhan03_Chuan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2901,
+    "title" : "100YTuongTiepThiTuyetHayPhan03 Chuan"
+  }, {
+    "href" : "https://archive.org/download/100-y-tuong-tiep-thi-tuyet-hay-nghe-thuat-tiep-thi-dinh-cao.sna/100YTuongTiepThiTuyetHayPhan04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2388,
+    "title" : "100YTuongTiepThiTuyetHayPhan04"
+  }, {
+    "href" : "https://archive.org/download/100-y-tuong-tiep-thi-tuyet-hay-nghe-thuat-tiep-thi-dinh-cao.sna/100YTuongTiepThiTuyetHayPhan05_Chuan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2530,
+    "title" : "100YTuongTiepThiTuyetHayPhan05 Chuan"
+  }, {
+    "href" : "https://archive.org/download/100-y-tuong-tiep-thi-tuyet-hay-nghe-thuat-tiep-thi-dinh-cao.sna/100YTuongTiepThiTuyetHayPhan06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2624,
+    "title" : "100YTuongTiepThiTuyetHayPhan06"
+  }, {
+    "href" : "https://archive.org/download/100-y-tuong-tiep-thi-tuyet-hay-nghe-thuat-tiep-thi-dinh-cao.sna/100YTuongTiepThiTuyetHayPhan07Het.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2305,
+    "title" : "100YTuongTiepThiTuyetHayPhan07Het"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/100-y-tuong-tiep-thi-tuyet-hay-nghe-thuat-tiep-thi-dinh-cao.sna/100YTuongTiepThiTuyetHayPhan01_Chuan.mp3",
+    "title" : "100YTuongTiepThiTuyetHayPhan01 Chuan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/100-y-tuong-tiep-thi-tuyet-hay-nghe-thuat-tiep-thi-dinh-cao.sna/100YTuongTiepThiTuyetHayPhan02_Chuan.mp3",
+    "title" : "100YTuongTiepThiTuyetHayPhan02 Chuan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/100-y-tuong-tiep-thi-tuyet-hay-nghe-thuat-tiep-thi-dinh-cao.sna/100YTuongTiepThiTuyetHayPhan03_Chuan.mp3",
+    "title" : "100YTuongTiepThiTuyetHayPhan03 Chuan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/100-y-tuong-tiep-thi-tuyet-hay-nghe-thuat-tiep-thi-dinh-cao.sna/100YTuongTiepThiTuyetHayPhan04.mp3",
+    "title" : "100YTuongTiepThiTuyetHayPhan04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/100-y-tuong-tiep-thi-tuyet-hay-nghe-thuat-tiep-thi-dinh-cao.sna/100YTuongTiepThiTuyetHayPhan05_Chuan.mp3",
+    "title" : "100YTuongTiepThiTuyetHayPhan05 Chuan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/100-y-tuong-tiep-thi-tuyet-hay-nghe-thuat-tiep-thi-dinh-cao.sna/100YTuongTiepThiTuyetHayPhan06.mp3",
+    "title" : "100YTuongTiepThiTuyetHayPhan06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/100-y-tuong-tiep-thi-tuyet-hay-nghe-thuat-tiep-thi-dinh-cao.sna/100YTuongTiepThiTuyetHayPhan07Het.mp3",
+    "title" : "100YTuongTiepThiTuyetHayPhan07Het",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
