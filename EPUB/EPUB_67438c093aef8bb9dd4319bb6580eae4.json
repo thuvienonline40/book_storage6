@@ -1,0 +1,96 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/trai-tim-cua-but_19254.html",
+    "title" : "Trái Tim của Bụt",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thích Nhất Hạnh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 11112,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage6/main/EPUB/EPUB_67438c093aef8bb9dd4319bb6580eae4.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage6/main/IMAGE/IMAGE_67438c093aef8bb9dd4319bb6580eae4.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/trai-tim-1/trai-tim-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1993,
+    "title" : "trai-tim-1"
+  }, {
+    "href" : "https://archive.org/download/trai-tim-1/trai-tim-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1667,
+    "title" : "trai-tim-2"
+  }, {
+    "href" : "https://archive.org/download/trai-tim-1/trai-tim-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1915,
+    "title" : "trai-tim-3"
+  }, {
+    "href" : "https://archive.org/download/trai-tim-1/trai-tim-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1890,
+    "title" : "trai-tim-4"
+  }, {
+    "href" : "https://archive.org/download/trai-tim-1/trai-tim-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1672,
+    "title" : "trai-tim-5"
+  }, {
+    "href" : "https://archive.org/download/trai-tim-1/trai-tim-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1975,
+    "title" : "trai-tim-6"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/trai-tim-1/trai-tim-1.mp3",
+    "title" : "trai-tim-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trai-tim-1/trai-tim-2.mp3",
+    "title" : "trai-tim-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trai-tim-1/trai-tim-3.mp3",
+    "title" : "trai-tim-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trai-tim-1/trai-tim-4.mp3",
+    "title" : "trai-tim-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trai-tim-1/trai-tim-5.mp3",
+    "title" : "trai-tim-5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/trai-tim-1/trai-tim-6.mp3",
+    "title" : "trai-tim-6",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,66 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/bi-mat-cua-phan-thien-an-nguoi-giau-nhat-the-gioi_19879.html",
+    "title" : "Bí Mật Của Phan Thiên Ân - Người Giàu Nhất Thế Giới",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Alan Phan",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 10168,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage6/main/EPUB/EPUB_80b76f3528ac7770bd432f97cc755cf8.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage6/main/IMAGE/IMAGE_80b76f3528ac7770bd432f97cc755cf8.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/bi-mat-3/bi-mat-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3462,
+    "title" : "bi-mat-1"
+  }, {
+    "href" : "https://archive.org/download/bi-mat-3/bi-mat-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3135,
+    "title" : "bi-mat-2"
+  }, {
+    "href" : "https://archive.org/download/bi-mat-3/bi-mat-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3571,
+    "title" : "bi-mat-3"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/bi-mat-3/bi-mat-1.mp3",
+    "title" : "bi-mat-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bi-mat-3/bi-mat-2.mp3",
+    "title" : "bi-mat-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bi-mat-3/bi-mat-3.mp3",
+    "title" : "bi-mat-3",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

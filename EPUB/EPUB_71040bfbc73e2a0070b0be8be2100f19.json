@@ -1,0 +1,186 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/henry-ford-va-ford-dat-the-gioi-len-bon-banh-xe_19398.html",
+    "title" : "Henry Ford và Ford - Đặt Thế Giới Lên Bốn Bánh Xe",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Lê Minh Toàn",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 23690,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage6/main/EPUB/EPUB_71040bfbc73e2a0070b0be8be2100f19.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage6/main/IMAGE/IMAGE_71040bfbc73e2a0070b0be8be2100f19.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/henry-ford-va-ford-dat-the-gioi-len-4-banh-xe.sna/01.P0_MucLucMoDau_FordDatTheGioiLenBonBanhXe.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2386,
+    "title" : "01.P0 MucLucMoDau FordDatTheGioiLenBonBanhXe"
+  }, {
+    "href" : "https://archive.org/download/henry-ford-va-ford-dat-the-gioi-len-4-banh-xe.sna/02.P1_C1A_24GioTrongDoiNguoiDacBiet_FordDatTheGioiLenBonBanhXe.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1421,
+    "title" : "02.P1 C1A 24GioTrongDoiNguoiDacBiet FordDatTheGioiLenBonBanhXe"
+  }, {
+    "href" : "https://archive.org/download/henry-ford-va-ford-dat-the-gioi-len-4-banh-xe.sna/03.P1_C1B_24GioTrongDoiNguoiDacBiet_FordDatTheGioiLenBonBanhXe.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1378,
+    "title" : "03.P1 C1B 24GioTrongDoiNguoiDacBiet FordDatTheGioiLenBonBanhXe"
+  }, {
+    "href" : "https://archive.org/download/henry-ford-va-ford-dat-the-gioi-len-4-banh-xe.sna/04.P1_C1C_24GioTrongDoiNguoiDacBiet_FordDatTheGioiLenBonBanhXe.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1995,
+    "title" : "04.P1 C1C 24GioTrongDoiNguoiDacBiet FordDatTheGioiLenBonBanhXe"
+  }, {
+    "href" : "https://archive.org/download/henry-ford-va-ford-dat-the-gioi-len-4-banh-xe.sna/05.P1_C2_TyPhuXaiTien_FordDatTheGioiLenBonBanhXe.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1333,
+    "title" : "05.P1 C2 TyPhuXaiTien FordDatTheGioiLenBonBanhXe"
+  }, {
+    "href" : "https://archive.org/download/henry-ford-va-ford-dat-the-gioi-len-4-banh-xe.sna/06.P2_C1_KhongKiemTienBangMoiGia_FordDatTheGioiLenBonBanhXe.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1366,
+    "title" : "06.P2 C1 KhongKiemTienBangMoiGia FordDatTheGioiLenBonBanhXe"
+  }, {
+    "href" : "https://archive.org/download/henry-ford-va-ford-dat-the-gioi-len-4-banh-xe.sna/07.P2_C2A_TheGioiNayCanDuocPhucVu_FordDatTheGioiLenBonBanhXe.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 867,
+    "title" : "07.P2 C2A TheGioiNayCanDuocPhucVu FordDatTheGioiLenBonBanhXe"
+  }, {
+    "href" : "https://archive.org/download/henry-ford-va-ford-dat-the-gioi-len-4-banh-xe.sna/08.P2_C2B_TheGioiNayCanDuocPhucVu_FordDatTheGioiLenBonBanhXe.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1584,
+    "title" : "08.P2 C2B TheGioiNayCanDuocPhucVu FordDatTheGioiLenBonBanhXe"
+  }, {
+    "href" : "https://archive.org/download/henry-ford-va-ford-dat-the-gioi-len-4-banh-xe.sna/09.P2_C3_DatTheGioiTrenNhungBanhXe_FordDatTheGioiLenBonBanhXe.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1736,
+    "title" : "09.P2 C3 DatTheGioiTrenNhungBanhXe FordDatTheGioiLenBonBanhXe"
+  }, {
+    "href" : "https://archive.org/download/henry-ford-va-ford-dat-the-gioi-len-4-banh-xe.sna/10.P3A_HocTapLaViecViDai_FordDatTheGioiLenBonBanhXe.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1663,
+    "title" : "10.P3A HocTapLaViecViDai FordDatTheGioiLenBonBanhXe"
+  }, {
+    "href" : "https://archive.org/download/henry-ford-va-ford-dat-the-gioi-len-4-banh-xe.sna/11.P3B_HocTapLaViecViDai_FordDatTheGioiLenBonBanhXe.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1072,
+    "title" : "11.P3B HocTapLaViecViDai FordDatTheGioiLenBonBanhXe"
+  }, {
+    "href" : "https://archive.org/download/henry-ford-va-ford-dat-the-gioi-len-4-banh-xe.sna/12.P4_C1A_DoiThuBanBeNguoiKeVi_FordDatTheGioiLenBonBanhXe.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1353,
+    "title" : "12.P4 C1A DoiThuBanBeNguoiKeVi FordDatTheGioiLenBonBanhXe"
+  }, {
+    "href" : "https://archive.org/download/henry-ford-va-ford-dat-the-gioi-len-4-banh-xe.sna/13.P4_C1B_DoiThuBanBeNguoiKeVi_FordDatTheGioiLenBonBanhXe.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2385,
+    "title" : "13.P4 C1B DoiThuBanBeNguoiKeVi FordDatTheGioiLenBonBanhXe"
+  }, {
+    "href" : "https://archive.org/download/henry-ford-va-ford-dat-the-gioi-len-4-banh-xe.sna/14.P4_C1C_DoiThuBanBeNguoiKeVi_FordDatTheGioiLenBonBanhXe.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1880,
+    "title" : "14.P4 C1C DoiThuBanBeNguoiKeVi FordDatTheGioiLenBonBanhXe"
+  }, {
+    "href" : "https://archive.org/download/henry-ford-va-ford-dat-the-gioi-len-4-banh-xe.sna/15.P4_C2_TuSuCuaHenryFord_FordDatTheGioiLenBonBanhXe.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1271,
+    "title" : "15.P4 C2 TuSuCuaHenryFord FordDatTheGioiLenBonBanhXe"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/henry-ford-va-ford-dat-the-gioi-len-4-banh-xe.sna/01.P0_MucLucMoDau_FordDatTheGioiLenBonBanhXe.mp3",
+    "title" : "01.P0 MucLucMoDau FordDatTheGioiLenBonBanhXe",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/henry-ford-va-ford-dat-the-gioi-len-4-banh-xe.sna/02.P1_C1A_24GioTrongDoiNguoiDacBiet_FordDatTheGioiLenBonBanhXe.mp3",
+    "title" : "02.P1 C1A 24GioTrongDoiNguoiDacBiet FordDatTheGioiLenBonBanhXe",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/henry-ford-va-ford-dat-the-gioi-len-4-banh-xe.sna/03.P1_C1B_24GioTrongDoiNguoiDacBiet_FordDatTheGioiLenBonBanhXe.mp3",
+    "title" : "03.P1 C1B 24GioTrongDoiNguoiDacBiet FordDatTheGioiLenBonBanhXe",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/henry-ford-va-ford-dat-the-gioi-len-4-banh-xe.sna/04.P1_C1C_24GioTrongDoiNguoiDacBiet_FordDatTheGioiLenBonBanhXe.mp3",
+    "title" : "04.P1 C1C 24GioTrongDoiNguoiDacBiet FordDatTheGioiLenBonBanhXe",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/henry-ford-va-ford-dat-the-gioi-len-4-banh-xe.sna/05.P1_C2_TyPhuXaiTien_FordDatTheGioiLenBonBanhXe.mp3",
+    "title" : "05.P1 C2 TyPhuXaiTien FordDatTheGioiLenBonBanhXe",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/henry-ford-va-ford-dat-the-gioi-len-4-banh-xe.sna/06.P2_C1_KhongKiemTienBangMoiGia_FordDatTheGioiLenBonBanhXe.mp3",
+    "title" : "06.P2 C1 KhongKiemTienBangMoiGia FordDatTheGioiLenBonBanhXe",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/henry-ford-va-ford-dat-the-gioi-len-4-banh-xe.sna/07.P2_C2A_TheGioiNayCanDuocPhucVu_FordDatTheGioiLenBonBanhXe.mp3",
+    "title" : "07.P2 C2A TheGioiNayCanDuocPhucVu FordDatTheGioiLenBonBanhXe",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/henry-ford-va-ford-dat-the-gioi-len-4-banh-xe.sna/08.P2_C2B_TheGioiNayCanDuocPhucVu_FordDatTheGioiLenBonBanhXe.mp3",
+    "title" : "08.P2 C2B TheGioiNayCanDuocPhucVu FordDatTheGioiLenBonBanhXe",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/henry-ford-va-ford-dat-the-gioi-len-4-banh-xe.sna/09.P2_C3_DatTheGioiTrenNhungBanhXe_FordDatTheGioiLenBonBanhXe.mp3",
+    "title" : "09.P2 C3 DatTheGioiTrenNhungBanhXe FordDatTheGioiLenBonBanhXe",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/henry-ford-va-ford-dat-the-gioi-len-4-banh-xe.sna/10.P3A_HocTapLaViecViDai_FordDatTheGioiLenBonBanhXe.mp3",
+    "title" : "10.P3A HocTapLaViecViDai FordDatTheGioiLenBonBanhXe",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/henry-ford-va-ford-dat-the-gioi-len-4-banh-xe.sna/11.P3B_HocTapLaViecViDai_FordDatTheGioiLenBonBanhXe.mp3",
+    "title" : "11.P3B HocTapLaViecViDai FordDatTheGioiLenBonBanhXe",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/henry-ford-va-ford-dat-the-gioi-len-4-banh-xe.sna/12.P4_C1A_DoiThuBanBeNguoiKeVi_FordDatTheGioiLenBonBanhXe.mp3",
+    "title" : "12.P4 C1A DoiThuBanBeNguoiKeVi FordDatTheGioiLenBonBanhXe",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/henry-ford-va-ford-dat-the-gioi-len-4-banh-xe.sna/13.P4_C1B_DoiThuBanBeNguoiKeVi_FordDatTheGioiLenBonBanhXe.mp3",
+    "title" : "13.P4 C1B DoiThuBanBeNguoiKeVi FordDatTheGioiLenBonBanhXe",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/henry-ford-va-ford-dat-the-gioi-len-4-banh-xe.sna/14.P4_C1C_DoiThuBanBeNguoiKeVi_FordDatTheGioiLenBonBanhXe.mp3",
+    "title" : "14.P4 C1C DoiThuBanBeNguoiKeVi FordDatTheGioiLenBonBanhXe",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/henry-ford-va-ford-dat-the-gioi-len-4-banh-xe.sna/15.P4_C2_TuSuCuaHenryFord_FordDatTheGioiLenBonBanhXe.mp3",
+    "title" : "15.P4 C2 TuSuCuaHenryFord FordDatTheGioiLenBonBanhXe",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

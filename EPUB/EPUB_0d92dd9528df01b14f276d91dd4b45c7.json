@@ -1,0 +1,96 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/tuyen-tap-tan-van-ve-tinh-yeu-tinh-ban_19792.html",
+    "title" : "Tuyển Tập Tản Văn Về Tình Yêu, Tình Bạn",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nhiều tác giả",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 22108,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage6/main/EPUB/EPUB_0d92dd9528df01b14f276d91dd4b45c7.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage6/main/IMAGE/IMAGE_0d92dd9528df01b14f276d91dd4b45c7.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/tinh-yeu-1/tinh-yeu-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3720,
+    "title" : "tinh-yeu-1"
+  }, {
+    "href" : "https://archive.org/download/tinh-yeu-1/tinh-yeu-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3720,
+    "title" : "tinh-yeu-2"
+  }, {
+    "href" : "https://archive.org/download/tinh-yeu-1/tinh-yeu-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3720,
+    "title" : "tinh-yeu-3"
+  }, {
+    "href" : "https://archive.org/download/tinh-yeu-1/tinh-yeu-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3720,
+    "title" : "tinh-yeu-4"
+  }, {
+    "href" : "https://archive.org/download/tinh-yeu-1/tinh-yeu-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3720,
+    "title" : "tinh-yeu-5"
+  }, {
+    "href" : "https://archive.org/download/tinh-yeu-1/tinh-yeu-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3508,
+    "title" : "tinh-yeu-6"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/tinh-yeu-1/tinh-yeu-1.mp3",
+    "title" : "tinh-yeu-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-yeu-1/tinh-yeu-2.mp3",
+    "title" : "tinh-yeu-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-yeu-1/tinh-yeu-3.mp3",
+    "title" : "tinh-yeu-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-yeu-1/tinh-yeu-4.mp3",
+    "title" : "tinh-yeu-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-yeu-1/tinh-yeu-5.mp3",
+    "title" : "tinh-yeu-5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tinh-yeu-1/tinh-yeu-6.mp3",
+    "title" : "tinh-yeu-6",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

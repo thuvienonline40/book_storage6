@@ -1,0 +1,96 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/tien-de-ra-tien_19627.html",
+    "title" : "Tiền Đẻ Ra Tiền",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Duncan Bannatyne",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 21187,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage6/main/EPUB/EPUB_bcd5073a3bb0993cc37b375b3bfe9da5.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage6/main/IMAGE/IMAGE_bcd5073a3bb0993cc37b375b3bfe9da5.jpeg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/tien-de-1/tien-de-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "tien-de-1"
+  }, {
+    "href" : "https://archive.org/download/tien-de-1/tien-de-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "tien-de-2"
+  }, {
+    "href" : "https://archive.org/download/tien-de-1/tien-de-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "tien-de-3"
+  }, {
+    "href" : "https://archive.org/download/tien-de-1/tien-de-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "tien-de-4"
+  }, {
+    "href" : "https://archive.org/download/tien-de-1/tien-de-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "tien-de-5"
+  }, {
+    "href" : "https://archive.org/download/tien-de-1/tien-de-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3187,
+    "title" : "tien-de-6"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/tien-de-1/tien-de-1.mp3",
+    "title" : "tien-de-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tien-de-1/tien-de-2.mp3",
+    "title" : "tien-de-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tien-de-1/tien-de-3.mp3",
+    "title" : "tien-de-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tien-de-1/tien-de-4.mp3",
+    "title" : "tien-de-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tien-de-1/tien-de-5.mp3",
+    "title" : "tien-de-5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tien-de-1/tien-de-6.mp3",
+    "title" : "tien-de-6",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

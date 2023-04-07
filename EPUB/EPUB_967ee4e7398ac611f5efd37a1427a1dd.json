@@ -1,0 +1,76 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/bong-bong-len-troi_19287.html",
+    "title" : "Bong Bóng Lên Trời",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Nhật Ánh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 13248,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage6/main/EPUB/EPUB_967ee4e7398ac611f5efd37a1427a1dd.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage6/main/IMAGE/IMAGE_967ee4e7398ac611f5efd37a1427a1dd.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/bong-bong-1/bong-bong-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "bong-bong-1"
+  }, {
+    "href" : "https://archive.org/download/bong-bong-1/bong-bong-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "bong-bong-2"
+  }, {
+    "href" : "https://archive.org/download/bong-bong-1/bong-bong-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "bong-bong-3"
+  }, {
+    "href" : "https://archive.org/download/bong-bong-1/bong-bong-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2448,
+    "title" : "bong-bong-4"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/bong-bong-1/bong-bong-1.mp3",
+    "title" : "bong-bong-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bong-bong-1/bong-bong-2.mp3",
+    "title" : "bong-bong-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bong-bong-1/bong-bong-3.mp3",
+    "title" : "bong-bong-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/bong-bong-1/bong-bong-4.mp3",
+    "title" : "bong-bong-4",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

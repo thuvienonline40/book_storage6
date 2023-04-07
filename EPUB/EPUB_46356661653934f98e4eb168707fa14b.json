@@ -1,0 +1,206 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/nguoi-phu-nu-giau-kiem-soat-dong-tien-quan-ly-cuoc-doi_19615.html",
+    "title" : "Người Phụ Nữ Giàu - Kiểm Soát Đồng Tiền Quản Lý Cuộc Đời",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Kim Kiyosaki",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 24750,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage6/main/EPUB/EPUB_46356661653934f98e4eb168707fa14b.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage6/main/IMAGE/IMAGE_46356661653934f98e4eb168707fa14b.jpeg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/rich-woman-nguoi-phu-nu-giau-kiem-soat-dong-tien-quan-li-cuoc-doi.sna/RichWomanC00_Chuan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1614,
+    "title" : "RichWomanC00 Chuan"
+  }, {
+    "href" : "https://archive.org/download/rich-woman-nguoi-phu-nu-giau-kiem-soat-dong-tien-quan-li-cuoc-doi.sna/RichWomanC0102_Chuan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1242,
+    "title" : "RichWomanC0102 Chuan"
+  }, {
+    "href" : "https://archive.org/download/rich-woman-nguoi-phu-nu-giau-kiem-soat-dong-tien-quan-li-cuoc-doi.sna/RichWomanC03_Chuan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1507,
+    "title" : "RichWomanC03 Chuan"
+  }, {
+    "href" : "https://archive.org/download/rich-woman-nguoi-phu-nu-giau-kiem-soat-dong-tien-quan-li-cuoc-doi.sna/RichWomanC0405.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1596,
+    "title" : "RichWomanC0405"
+  }, {
+    "href" : "https://archive.org/download/rich-woman-nguoi-phu-nu-giau-kiem-soat-dong-tien-quan-li-cuoc-doi.sna/RichWomanC0607_Chuan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2001,
+    "title" : "RichWomanC0607 Chuan"
+  }, {
+    "href" : "https://archive.org/download/rich-woman-nguoi-phu-nu-giau-kiem-soat-dong-tien-quan-li-cuoc-doi.sna/RichWomanC0809_Chuan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1577,
+    "title" : "RichWomanC0809 Chuan"
+  }, {
+    "href" : "https://archive.org/download/rich-woman-nguoi-phu-nu-giau-kiem-soat-dong-tien-quan-li-cuoc-doi.sna/RichWomanC10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1179,
+    "title" : "RichWomanC10"
+  }, {
+    "href" : "https://archive.org/download/rich-woman-nguoi-phu-nu-giau-kiem-soat-dong-tien-quan-li-cuoc-doi.sna/RichWomanC1112.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2176,
+    "title" : "RichWomanC1112"
+  }, {
+    "href" : "https://archive.org/download/rich-woman-nguoi-phu-nu-giau-kiem-soat-dong-tien-quan-li-cuoc-doi.sna/RichWomanC1314_Chuan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2036,
+    "title" : "RichWomanC1314 Chuan"
+  }, {
+    "href" : "https://archive.org/download/rich-woman-nguoi-phu-nu-giau-kiem-soat-dong-tien-quan-li-cuoc-doi.sna/RichWomanC15_Chuan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1158,
+    "title" : "RichWomanC15 Chuan"
+  }, {
+    "href" : "https://archive.org/download/rich-woman-nguoi-phu-nu-giau-kiem-soat-dong-tien-quan-li-cuoc-doi.sna/RichWomanC1617.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1318,
+    "title" : "RichWomanC1617"
+  }, {
+    "href" : "https://archive.org/download/rich-woman-nguoi-phu-nu-giau-kiem-soat-dong-tien-quan-li-cuoc-doi.sna/RichWomanC18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1019,
+    "title" : "RichWomanC18"
+  }, {
+    "href" : "https://archive.org/download/rich-woman-nguoi-phu-nu-giau-kiem-soat-dong-tien-quan-li-cuoc-doi.sna/RichWomanC19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1238,
+    "title" : "RichWomanC19"
+  }, {
+    "href" : "https://archive.org/download/rich-woman-nguoi-phu-nu-giau-kiem-soat-dong-tien-quan-li-cuoc-doi.sna/RichWomanC20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1263,
+    "title" : "RichWomanC20"
+  }, {
+    "href" : "https://archive.org/download/rich-woman-nguoi-phu-nu-giau-kiem-soat-dong-tien-quan-li-cuoc-doi.sna/RichWomanC21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1389,
+    "title" : "RichWomanC21"
+  }, {
+    "href" : "https://archive.org/download/rich-woman-nguoi-phu-nu-giau-kiem-soat-dong-tien-quan-li-cuoc-doi.sna/RichWomanC2223.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1728,
+    "title" : "RichWomanC2223"
+  }, {
+    "href" : "https://archive.org/download/rich-woman-nguoi-phu-nu-giau-kiem-soat-dong-tien-quan-li-cuoc-doi.sna/RichWomanC24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 709,
+    "title" : "RichWomanC24"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/rich-woman-nguoi-phu-nu-giau-kiem-soat-dong-tien-quan-li-cuoc-doi.sna/RichWomanC00_Chuan.mp3",
+    "title" : "RichWomanC00 Chuan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/rich-woman-nguoi-phu-nu-giau-kiem-soat-dong-tien-quan-li-cuoc-doi.sna/RichWomanC0102_Chuan.mp3",
+    "title" : "RichWomanC0102 Chuan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/rich-woman-nguoi-phu-nu-giau-kiem-soat-dong-tien-quan-li-cuoc-doi.sna/RichWomanC03_Chuan.mp3",
+    "title" : "RichWomanC03 Chuan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/rich-woman-nguoi-phu-nu-giau-kiem-soat-dong-tien-quan-li-cuoc-doi.sna/RichWomanC0405.mp3",
+    "title" : "RichWomanC0405",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/rich-woman-nguoi-phu-nu-giau-kiem-soat-dong-tien-quan-li-cuoc-doi.sna/RichWomanC0607_Chuan.mp3",
+    "title" : "RichWomanC0607 Chuan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/rich-woman-nguoi-phu-nu-giau-kiem-soat-dong-tien-quan-li-cuoc-doi.sna/RichWomanC0809_Chuan.mp3",
+    "title" : "RichWomanC0809 Chuan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/rich-woman-nguoi-phu-nu-giau-kiem-soat-dong-tien-quan-li-cuoc-doi.sna/RichWomanC10.mp3",
+    "title" : "RichWomanC10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/rich-woman-nguoi-phu-nu-giau-kiem-soat-dong-tien-quan-li-cuoc-doi.sna/RichWomanC1112.mp3",
+    "title" : "RichWomanC1112",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/rich-woman-nguoi-phu-nu-giau-kiem-soat-dong-tien-quan-li-cuoc-doi.sna/RichWomanC1314_Chuan.mp3",
+    "title" : "RichWomanC1314 Chuan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/rich-woman-nguoi-phu-nu-giau-kiem-soat-dong-tien-quan-li-cuoc-doi.sna/RichWomanC15_Chuan.mp3",
+    "title" : "RichWomanC15 Chuan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/rich-woman-nguoi-phu-nu-giau-kiem-soat-dong-tien-quan-li-cuoc-doi.sna/RichWomanC1617.mp3",
+    "title" : "RichWomanC1617",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/rich-woman-nguoi-phu-nu-giau-kiem-soat-dong-tien-quan-li-cuoc-doi.sna/RichWomanC18.mp3",
+    "title" : "RichWomanC18",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/rich-woman-nguoi-phu-nu-giau-kiem-soat-dong-tien-quan-li-cuoc-doi.sna/RichWomanC19.mp3",
+    "title" : "RichWomanC19",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/rich-woman-nguoi-phu-nu-giau-kiem-soat-dong-tien-quan-li-cuoc-doi.sna/RichWomanC20.mp3",
+    "title" : "RichWomanC20",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/rich-woman-nguoi-phu-nu-giau-kiem-soat-dong-tien-quan-li-cuoc-doi.sna/RichWomanC21.mp3",
+    "title" : "RichWomanC21",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/rich-woman-nguoi-phu-nu-giau-kiem-soat-dong-tien-quan-li-cuoc-doi.sna/RichWomanC2223.mp3",
+    "title" : "RichWomanC2223",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/rich-woman-nguoi-phu-nu-giau-kiem-soat-dong-tien-quan-li-cuoc-doi.sna/RichWomanC24.mp3",
+    "title" : "RichWomanC24",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

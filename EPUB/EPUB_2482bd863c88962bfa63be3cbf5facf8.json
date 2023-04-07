@@ -1,0 +1,136 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/phuong-phap-montessori-ngay-nay_19425.html",
+    "title" : "Phương Pháp Montessori Ngày Nay",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Paula Polk Lillard",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 22557,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage6/main/EPUB/EPUB_2482bd863c88962bfa63be3cbf5facf8.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage6/main/IMAGE/IMAGE_2482bd863c88962bfa63be3cbf5facf8.jpeg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/phuong-phap-montessori-ngay-nay.sna/00.GioiThieu_PPMotessoriToDay.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 642,
+    "title" : "00.GioiThieu PPMotessoriToDay"
+  }, {
+    "href" : "https://archive.org/download/phuong-phap-montessori-ngay-nay.sna/01.C01_HC_NguonGocLyThuyetGiaoDucMontessori_PPMotessoriToDay.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3458,
+    "title" : "01.C01 HC NguonGocLyThuyetGiaoDucMontessori PPMotessoriToDay"
+  }, {
+    "href" : "https://archive.org/download/phuong-phap-montessori-ngay-nay.sna/02.C0203_HC_KhaiQuatNhungNamDauDoi_ThayDoiDienRaGiaDoanThuHai_PPMotessoriToDay.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3200,
+    "title" : "02.C0203 HC KhaiQuatNhungNamDauDoi ThayDoiDienRaGiaDoanThuHai PPMotessoriToDay"
+  }, {
+    "href" : "https://archive.org/download/phuong-phap-montessori-ngay-nay.sna/03.C04_BaiHocLonBaiHocNho_PPMontessoriToday.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2569,
+    "title" : "03.C04 BaiHocLonBaiHocNho PPMontessoriToday"
+  }, {
+    "href" : "https://archive.org/download/phuong-phap-montessori-ngay-nay.sna/04.C0506_MoiTruongLopHoc_NgGiaoVienTieuHoc_PPMontessoriToday.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2362,
+    "title" : "04.C0506 MoiTruongLopHoc NgGiaoVienTieuHoc PPMontessoriToday"
+  }, {
+    "href" : "https://archive.org/download/phuong-phap-montessori-ngay-nay.sna/05.C07_TuDoVaTrachNhiem_PPMontessoriToday.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1760,
+    "title" : "05.C07 TuDoVaTrachNhiem PPMontessoriToday"
+  }, {
+    "href" : "https://archive.org/download/phuong-phap-montessori-ngay-nay.sna/06.C08A_NhungQuanSatMotLopTieuHoc_PPMontessoriToday.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1592,
+    "title" : "06.C08A NhungQuanSatMotLopTieuHoc PPMontessoriToday"
+  }, {
+    "href" : "https://archive.org/download/phuong-phap-montessori-ngay-nay.sna/07.C08B_NhungQuanSatMotLopTieHoc_PPMontessoriToday.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2630,
+    "title" : "07.C08B NhungQuanSatMotLopTieHoc PPMontessoriToday"
+  }, {
+    "href" : "https://archive.org/download/phuong-phap-montessori-ngay-nay.sna/08.C09_GiaiDoanTruongThanh_PPMontessoriToday.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2798,
+    "title" : "08.C09 GiaiDoanTruongThanh PPMontessoriToday"
+  }, {
+    "href" : "https://archive.org/download/phuong-phap-montessori-ngay-nay.sna/09.C10_HET_MontessoriHienTaiTuongLai_PPMontessoriToday.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1546,
+    "title" : "09.C10 HET MontessoriHienTaiTuongLai PPMontessoriToday"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/phuong-phap-montessori-ngay-nay.sna/00.GioiThieu_PPMotessoriToDay.mp3",
+    "title" : "00.GioiThieu PPMotessoriToDay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phuong-phap-montessori-ngay-nay.sna/01.C01_HC_NguonGocLyThuyetGiaoDucMontessori_PPMotessoriToDay.mp3",
+    "title" : "01.C01 HC NguonGocLyThuyetGiaoDucMontessori PPMotessoriToDay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phuong-phap-montessori-ngay-nay.sna/02.C0203_HC_KhaiQuatNhungNamDauDoi_ThayDoiDienRaGiaDoanThuHai_PPMotessoriToDay.mp3",
+    "title" : "02.C0203 HC KhaiQuatNhungNamDauDoi ThayDoiDienRaGiaDoanThuHai PPMotessoriToDay",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phuong-phap-montessori-ngay-nay.sna/03.C04_BaiHocLonBaiHocNho_PPMontessoriToday.mp3",
+    "title" : "03.C04 BaiHocLonBaiHocNho PPMontessoriToday",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phuong-phap-montessori-ngay-nay.sna/04.C0506_MoiTruongLopHoc_NgGiaoVienTieuHoc_PPMontessoriToday.mp3",
+    "title" : "04.C0506 MoiTruongLopHoc NgGiaoVienTieuHoc PPMontessoriToday",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phuong-phap-montessori-ngay-nay.sna/05.C07_TuDoVaTrachNhiem_PPMontessoriToday.mp3",
+    "title" : "05.C07 TuDoVaTrachNhiem PPMontessoriToday",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phuong-phap-montessori-ngay-nay.sna/06.C08A_NhungQuanSatMotLopTieuHoc_PPMontessoriToday.mp3",
+    "title" : "06.C08A NhungQuanSatMotLopTieuHoc PPMontessoriToday",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phuong-phap-montessori-ngay-nay.sna/07.C08B_NhungQuanSatMotLopTieHoc_PPMontessoriToday.mp3",
+    "title" : "07.C08B NhungQuanSatMotLopTieHoc PPMontessoriToday",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phuong-phap-montessori-ngay-nay.sna/08.C09_GiaiDoanTruongThanh_PPMontessoriToday.mp3",
+    "title" : "08.C09 GiaiDoanTruongThanh PPMontessoriToday",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phuong-phap-montessori-ngay-nay.sna/09.C10_HET_MontessoriHienTaiTuongLai_PPMontessoriToday.mp3",
+    "title" : "09.C10 HET MontessoriHienTaiTuongLai PPMontessoriToday",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

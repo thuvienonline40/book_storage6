@@ -1,0 +1,266 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/biet-nguoi-dung-nguoi-quan-nguoi_19633.html",
+    "title" : "Biết Người - Dùng Người - Quản Người",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Tạ Ngọc Ái",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 54587,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage6/main/EPUB/EPUB_8f4cafed3e408259c56b6b04c6780f95.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage6/main/IMAGE/IMAGE_8f4cafed3e408259c56b6b04c6780f95.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/biet-nguoi-dung-nguoi-quan-nguoi.sna/01.BietNguoiDungNguoiQuanNguoi_ThienThuNhatA_BietNguoi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2167,
+    "title" : "01.BietNguoiDungNguoiQuanNguoi ThienThuNhatA BietNguoi"
+  }, {
+    "href" : "https://archive.org/download/biet-nguoi-dung-nguoi-quan-nguoi.sna/02.BietNguoiDungNguoiQuanNguoi_ThienThuNhatB_BietNguoi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3116,
+    "title" : "02.BietNguoiDungNguoiQuanNguoi ThienThuNhatB BietNguoi"
+  }, {
+    "href" : "https://archive.org/download/biet-nguoi-dung-nguoi-quan-nguoi.sna/03.BietNguoiDungNguoiQuanNguoi_ThienThuNhatC_BietNguoi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2730,
+    "title" : "03.BietNguoiDungNguoiQuanNguoi ThienThuNhatC BietNguoi"
+  }, {
+    "href" : "https://archive.org/download/biet-nguoi-dung-nguoi-quan-nguoi.sna/04.BietNguoiDungNguoiQuanNguoi_ThienThuNhatD_BietNguoi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2491,
+    "title" : "04.BietNguoiDungNguoiQuanNguoi ThienThuNhatD BietNguoi"
+  }, {
+    "href" : "https://archive.org/download/biet-nguoi-dung-nguoi-quan-nguoi.sna/05.BietNguoiDungNguoiQuanNguoi_ThienThuNhatE_BietNguoi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2313,
+    "title" : "05.BietNguoiDungNguoiQuanNguoi ThienThuNhatE BietNguoi"
+  }, {
+    "href" : "https://archive.org/download/biet-nguoi-dung-nguoi-quan-nguoi.sna/06.BietNguoiDungNguoiQuanNguoi_ThienThuNhatG_BietNguoi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3151,
+    "title" : "06.BietNguoiDungNguoiQuanNguoi ThienThuNhatG BietNguoi"
+  }, {
+    "href" : "https://archive.org/download/biet-nguoi-dung-nguoi-quan-nguoi.sna/07.BietNguoiDungNguoiQuanNguoi_ThienThuNhatH_BietNguoi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2193,
+    "title" : "07.BietNguoiDungNguoiQuanNguoi ThienThuNhatH BietNguoi"
+  }, {
+    "href" : "https://archive.org/download/biet-nguoi-dung-nguoi-quan-nguoi.sna/08.BietNguoiDungNguoiQuanNguoi_ThienThuNhatI_BietNguoi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1754,
+    "title" : "08.BietNguoiDungNguoiQuanNguoi ThienThuNhatI BietNguoi"
+  }, {
+    "href" : "https://archive.org/download/biet-nguoi-dung-nguoi-quan-nguoi.sna/09.BietNguoiDungNguoiQuanNguoi_ThienThuHaiA_DungNguoi_LuaChonNhanTaiXauTot.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2082,
+    "title" : "09.BietNguoiDungNguoiQuanNguoi ThienThuHaiA DungNguoi LuaChonNhanTaiXauTot"
+  }, {
+    "href" : "https://archive.org/download/biet-nguoi-dung-nguoi-quan-nguoi.sna/10.BietNguoiDungNguoiQuanNguoi_ThienThuHaiB_DungNguoi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3434,
+    "title" : "10.BietNguoiDungNguoiQuanNguoi ThienThuHaiB DungNguoi"
+  }, {
+    "href" : "https://archive.org/download/biet-nguoi-dung-nguoi-quan-nguoi.sna/11.BietNguoiDungNguoiQuanNguoi_ThienThuHaiC_DungNguoi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3354,
+    "title" : "11.BietNguoiDungNguoiQuanNguoi ThienThuHaiC DungNguoi"
+  }, {
+    "href" : "https://archive.org/download/biet-nguoi-dung-nguoi-quan-nguoi.sna/12.BietNguoiDungNguoiQuanNguoi_ThienThuHaiE_DungNguoi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2633,
+    "title" : "12.BietNguoiDungNguoiQuanNguoi ThienThuHaiE DungNguoi"
+  }, {
+    "href" : "https://archive.org/download/biet-nguoi-dung-nguoi-quan-nguoi.sna/13.BietNguoiDungNguoiQuanNguoi_ThienThuHaiE_DungNguoi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2686,
+    "title" : "13.BietNguoiDungNguoiQuanNguoi ThienThuHaiE DungNguoi"
+  }, {
+    "href" : "https://archive.org/download/biet-nguoi-dung-nguoi-quan-nguoi.sna/14.BietNguoiDungNguoiQuanNguoi_ThienThuHaiG_DungNguoi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1807,
+    "title" : "14.BietNguoiDungNguoiQuanNguoi ThienThuHaiG DungNguoi"
+  }, {
+    "href" : "https://archive.org/download/biet-nguoi-dung-nguoi-quan-nguoi.sna/15.BietNguoiDungNguoiQuanNguoi_ThienThuHaiH_DungNguoi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1888,
+    "title" : "15.BietNguoiDungNguoiQuanNguoi ThienThuHaiH DungNguoi"
+  }, {
+    "href" : "https://archive.org/download/biet-nguoi-dung-nguoi-quan-nguoi.sna/16.BietNguoiDungNguoiQuanNguoi_ThienThuHaiI_DungNguoi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2202,
+    "title" : "16.BietNguoiDungNguoiQuanNguoi ThienThuHaiI DungNguoi"
+  }, {
+    "href" : "https://archive.org/download/biet-nguoi-dung-nguoi-quan-nguoi.sna/17.BietNguoiDungNguoiQuanNguoi_ThienThuBaA_QuanNguoi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1562,
+    "title" : "17.BietNguoiDungNguoiQuanNguoi ThienThuBaA QuanNguoi"
+  }, {
+    "href" : "https://archive.org/download/biet-nguoi-dung-nguoi-quan-nguoi.sna/18.BietNguoiDungNguoiQuanNguoi_ThienThuBaC_QuanNguoi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2175,
+    "title" : "18.BietNguoiDungNguoiQuanNguoi ThienThuBaC QuanNguoi"
+  }, {
+    "href" : "https://archive.org/download/biet-nguoi-dung-nguoi-quan-nguoi.sna/19.BietNguoiDungNguoiQuanNguoi_ThienThuBaD_QuanNguoi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2249,
+    "title" : "19.BietNguoiDungNguoiQuanNguoi ThienThuBaD QuanNguoi"
+  }, {
+    "href" : "https://archive.org/download/biet-nguoi-dung-nguoi-quan-nguoi.sna/20.BietNguoiDungNguoiQuanNguoi_ThienThuBaE_QuanNguoi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2116,
+    "title" : "20.BietNguoiDungNguoiQuanNguoi ThienThuBaE QuanNguoi"
+  }, {
+    "href" : "https://archive.org/download/biet-nguoi-dung-nguoi-quan-nguoi.sna/21.BietNguoiDungNguoiQuanNguoi_ThienThuBaG_QuanNguoi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2000,
+    "title" : "21.BietNguoiDungNguoiQuanNguoi ThienThuBaG QuanNguoi"
+  }, {
+    "href" : "https://archive.org/download/biet-nguoi-dung-nguoi-quan-nguoi.sna/22.BietNguoiDungNguoiQuanNguoi_ThienThuBaH_QuanNguoi.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2057,
+    "title" : "22.BietNguoiDungNguoiQuanNguoi ThienThuBaH QuanNguoi"
+  }, {
+    "href" : "https://archive.org/download/biet-nguoi-dung-nguoi-quan-nguoi.sna/23.BietNguoiDungNguoiQuanNguoi_ThienThuBaI.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2427,
+    "title" : "23.BietNguoiDungNguoiQuanNguoi ThienThuBaI"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/biet-nguoi-dung-nguoi-quan-nguoi.sna/01.BietNguoiDungNguoiQuanNguoi_ThienThuNhatA_BietNguoi.mp3",
+    "title" : "01.BietNguoiDungNguoiQuanNguoi ThienThuNhatA BietNguoi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/biet-nguoi-dung-nguoi-quan-nguoi.sna/02.BietNguoiDungNguoiQuanNguoi_ThienThuNhatB_BietNguoi.mp3",
+    "title" : "02.BietNguoiDungNguoiQuanNguoi ThienThuNhatB BietNguoi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/biet-nguoi-dung-nguoi-quan-nguoi.sna/03.BietNguoiDungNguoiQuanNguoi_ThienThuNhatC_BietNguoi.mp3",
+    "title" : "03.BietNguoiDungNguoiQuanNguoi ThienThuNhatC BietNguoi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/biet-nguoi-dung-nguoi-quan-nguoi.sna/04.BietNguoiDungNguoiQuanNguoi_ThienThuNhatD_BietNguoi.mp3",
+    "title" : "04.BietNguoiDungNguoiQuanNguoi ThienThuNhatD BietNguoi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/biet-nguoi-dung-nguoi-quan-nguoi.sna/05.BietNguoiDungNguoiQuanNguoi_ThienThuNhatE_BietNguoi.mp3",
+    "title" : "05.BietNguoiDungNguoiQuanNguoi ThienThuNhatE BietNguoi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/biet-nguoi-dung-nguoi-quan-nguoi.sna/06.BietNguoiDungNguoiQuanNguoi_ThienThuNhatG_BietNguoi.mp3",
+    "title" : "06.BietNguoiDungNguoiQuanNguoi ThienThuNhatG BietNguoi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/biet-nguoi-dung-nguoi-quan-nguoi.sna/07.BietNguoiDungNguoiQuanNguoi_ThienThuNhatH_BietNguoi.mp3",
+    "title" : "07.BietNguoiDungNguoiQuanNguoi ThienThuNhatH BietNguoi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/biet-nguoi-dung-nguoi-quan-nguoi.sna/08.BietNguoiDungNguoiQuanNguoi_ThienThuNhatI_BietNguoi.mp3",
+    "title" : "08.BietNguoiDungNguoiQuanNguoi ThienThuNhatI BietNguoi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/biet-nguoi-dung-nguoi-quan-nguoi.sna/09.BietNguoiDungNguoiQuanNguoi_ThienThuHaiA_DungNguoi_LuaChonNhanTaiXauTot.mp3",
+    "title" : "09.BietNguoiDungNguoiQuanNguoi ThienThuHaiA DungNguoi LuaChonNhanTaiXauTot",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/biet-nguoi-dung-nguoi-quan-nguoi.sna/10.BietNguoiDungNguoiQuanNguoi_ThienThuHaiB_DungNguoi.mp3",
+    "title" : "10.BietNguoiDungNguoiQuanNguoi ThienThuHaiB DungNguoi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/biet-nguoi-dung-nguoi-quan-nguoi.sna/11.BietNguoiDungNguoiQuanNguoi_ThienThuHaiC_DungNguoi.mp3",
+    "title" : "11.BietNguoiDungNguoiQuanNguoi ThienThuHaiC DungNguoi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/biet-nguoi-dung-nguoi-quan-nguoi.sna/12.BietNguoiDungNguoiQuanNguoi_ThienThuHaiE_DungNguoi.mp3",
+    "title" : "12.BietNguoiDungNguoiQuanNguoi ThienThuHaiE DungNguoi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/biet-nguoi-dung-nguoi-quan-nguoi.sna/13.BietNguoiDungNguoiQuanNguoi_ThienThuHaiE_DungNguoi.mp3",
+    "title" : "13.BietNguoiDungNguoiQuanNguoi ThienThuHaiE DungNguoi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/biet-nguoi-dung-nguoi-quan-nguoi.sna/14.BietNguoiDungNguoiQuanNguoi_ThienThuHaiG_DungNguoi.mp3",
+    "title" : "14.BietNguoiDungNguoiQuanNguoi ThienThuHaiG DungNguoi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/biet-nguoi-dung-nguoi-quan-nguoi.sna/15.BietNguoiDungNguoiQuanNguoi_ThienThuHaiH_DungNguoi.mp3",
+    "title" : "15.BietNguoiDungNguoiQuanNguoi ThienThuHaiH DungNguoi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/biet-nguoi-dung-nguoi-quan-nguoi.sna/16.BietNguoiDungNguoiQuanNguoi_ThienThuHaiI_DungNguoi.mp3",
+    "title" : "16.BietNguoiDungNguoiQuanNguoi ThienThuHaiI DungNguoi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/biet-nguoi-dung-nguoi-quan-nguoi.sna/17.BietNguoiDungNguoiQuanNguoi_ThienThuBaA_QuanNguoi.mp3",
+    "title" : "17.BietNguoiDungNguoiQuanNguoi ThienThuBaA QuanNguoi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/biet-nguoi-dung-nguoi-quan-nguoi.sna/18.BietNguoiDungNguoiQuanNguoi_ThienThuBaC_QuanNguoi.mp3",
+    "title" : "18.BietNguoiDungNguoiQuanNguoi ThienThuBaC QuanNguoi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/biet-nguoi-dung-nguoi-quan-nguoi.sna/19.BietNguoiDungNguoiQuanNguoi_ThienThuBaD_QuanNguoi.mp3",
+    "title" : "19.BietNguoiDungNguoiQuanNguoi ThienThuBaD QuanNguoi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/biet-nguoi-dung-nguoi-quan-nguoi.sna/20.BietNguoiDungNguoiQuanNguoi_ThienThuBaE_QuanNguoi.mp3",
+    "title" : "20.BietNguoiDungNguoiQuanNguoi ThienThuBaE QuanNguoi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/biet-nguoi-dung-nguoi-quan-nguoi.sna/21.BietNguoiDungNguoiQuanNguoi_ThienThuBaG_QuanNguoi.mp3",
+    "title" : "21.BietNguoiDungNguoiQuanNguoi ThienThuBaG QuanNguoi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/biet-nguoi-dung-nguoi-quan-nguoi.sna/22.BietNguoiDungNguoiQuanNguoi_ThienThuBaH_QuanNguoi.mp3",
+    "title" : "22.BietNguoiDungNguoiQuanNguoi ThienThuBaH QuanNguoi",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/biet-nguoi-dung-nguoi-quan-nguoi.sna/23.BietNguoiDungNguoiQuanNguoi_ThienThuBaI.mp3",
+    "title" : "23.BietNguoiDungNguoiQuanNguoi ThienThuBaI",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

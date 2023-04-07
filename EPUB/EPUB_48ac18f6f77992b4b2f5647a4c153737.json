@@ -1,0 +1,146 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/thanh-tinh-dao_19284.html",
+    "title" : "Thanh Tịnh Đạo",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Bhadantacariya Buddhaghosa",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 129069,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage6/main/EPUB/EPUB_48ac18f6f77992b4b2f5647a4c153737.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage6/main/IMAGE/IMAGE_48ac18f6f77992b4b2f5647a4c153737.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/thanh-tinh-9/thanh-tinh-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8603,
+    "title" : "thanh-tinh-1"
+  }, {
+    "href" : "https://archive.org/download/thanh-tinh-9/thanh-tinh-10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 10022,
+    "title" : "thanh-tinh-10"
+  }, {
+    "href" : "https://archive.org/download/thanh-tinh-9/thanh-tinh-11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 14594,
+    "title" : "thanh-tinh-11"
+  }, {
+    "href" : "https://archive.org/download/thanh-tinh-9/thanh-tinh-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8646,
+    "title" : "thanh-tinh-2"
+  }, {
+    "href" : "https://archive.org/download/thanh-tinh-9/thanh-tinh-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 8270,
+    "title" : "thanh-tinh-3"
+  }, {
+    "href" : "https://archive.org/download/thanh-tinh-9/thanh-tinh-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 10162,
+    "title" : "thanh-tinh-4"
+  }, {
+    "href" : "https://archive.org/download/thanh-tinh-9/thanh-tinh-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 12669,
+    "title" : "thanh-tinh-5"
+  }, {
+    "href" : "https://archive.org/download/thanh-tinh-9/thanh-tinh-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 14788,
+    "title" : "thanh-tinh-6"
+  }, {
+    "href" : "https://archive.org/download/thanh-tinh-9/thanh-tinh-7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 12994,
+    "title" : "thanh-tinh-7"
+  }, {
+    "href" : "https://archive.org/download/thanh-tinh-9/thanh-tinh-8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 12898,
+    "title" : "thanh-tinh-8"
+  }, {
+    "href" : "https://archive.org/download/thanh-tinh-9/thanh-tinh-9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 15423,
+    "title" : "thanh-tinh-9"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/thanh-tinh-9/thanh-tinh-1.mp3",
+    "title" : "thanh-tinh-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thanh-tinh-9/thanh-tinh-10.mp3",
+    "title" : "thanh-tinh-10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thanh-tinh-9/thanh-tinh-11.mp3",
+    "title" : "thanh-tinh-11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thanh-tinh-9/thanh-tinh-2.mp3",
+    "title" : "thanh-tinh-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thanh-tinh-9/thanh-tinh-3.mp3",
+    "title" : "thanh-tinh-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thanh-tinh-9/thanh-tinh-4.mp3",
+    "title" : "thanh-tinh-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thanh-tinh-9/thanh-tinh-5.mp3",
+    "title" : "thanh-tinh-5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thanh-tinh-9/thanh-tinh-6.mp3",
+    "title" : "thanh-tinh-6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thanh-tinh-9/thanh-tinh-7.mp3",
+    "title" : "thanh-tinh-7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thanh-tinh-9/thanh-tinh-8.mp3",
+    "title" : "thanh-tinh-8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thanh-tinh-9/thanh-tinh-9.mp3",
+    "title" : "thanh-tinh-9",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

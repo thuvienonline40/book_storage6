@@ -1,0 +1,96 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/16-nguyen-tac-nghi-giau-lam-giau-trong-the-ki-21_19478.html",
+    "title" : "16 Nguyên Tắc Nghĩ Giàu, Làm Giàu Trong Thế Kỉ 21",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Napoleon Hill",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 33834,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage6/main/EPUB/EPUB_c3b73f79cd12f8dc2554d06ad2fc0f73.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage6/main/IMAGE/IMAGE_c3b73f79cd12f8dc2554d06ad2fc0f73.jpeg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/16-nguyen-1/16-nguyen-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5700,
+    "title" : "16-nguyen-1"
+  }, {
+    "href" : "https://archive.org/download/16-nguyen-1/16-nguyen-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5700,
+    "title" : "16-nguyen-2"
+  }, {
+    "href" : "https://archive.org/download/16-nguyen-1/16-nguyen-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5700,
+    "title" : "16-nguyen-3"
+  }, {
+    "href" : "https://archive.org/download/16-nguyen-1/16-nguyen-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5700,
+    "title" : "16-nguyen-4"
+  }, {
+    "href" : "https://archive.org/download/16-nguyen-1/16-nguyen-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5700,
+    "title" : "16-nguyen-5"
+  }, {
+    "href" : "https://archive.org/download/16-nguyen-1/16-nguyen-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 5334,
+    "title" : "16-nguyen-6"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/16-nguyen-1/16-nguyen-1.mp3",
+    "title" : "16-nguyen-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/16-nguyen-1/16-nguyen-2.mp3",
+    "title" : "16-nguyen-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/16-nguyen-1/16-nguyen-3.mp3",
+    "title" : "16-nguyen-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/16-nguyen-1/16-nguyen-4.mp3",
+    "title" : "16-nguyen-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/16-nguyen-1/16-nguyen-5.mp3",
+    "title" : "16-nguyen-5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/16-nguyen-1/16-nguyen-6.mp3",
+    "title" : "16-nguyen-6",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,86 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/khoi-nghiep-ban-le_19868.html",
+    "title" : "Khởi Nghiệp Bán Lẻ",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Trần Thanh Phong",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 14773,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage6/main/EPUB/EPUB_be9c4088bf614fc5896f0234f0f5e9ec.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage6/main/IMAGE/IMAGE_be9c4088bf614fc5896f0234f0f5e9ec.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/khoi-nghiep-3/khoi-nghiep-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1967,
+    "title" : "khoi-nghiep-1"
+  }, {
+    "href" : "https://archive.org/download/khoi-nghiep-3/khoi-nghiep-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3861,
+    "title" : "khoi-nghiep-2"
+  }, {
+    "href" : "https://archive.org/download/khoi-nghiep-3/khoi-nghiep-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4415,
+    "title" : "khoi-nghiep-3"
+  }, {
+    "href" : "https://archive.org/download/khoi-nghiep-3/khoi-nghiep-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3090,
+    "title" : "khoi-nghiep-4"
+  }, {
+    "href" : "https://archive.org/download/khoi-nghiep-3/khoi-nghiep-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1440,
+    "title" : "khoi-nghiep-5"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/khoi-nghiep-3/khoi-nghiep-1.mp3",
+    "title" : "khoi-nghiep-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khoi-nghiep-3/khoi-nghiep-2.mp3",
+    "title" : "khoi-nghiep-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khoi-nghiep-3/khoi-nghiep-3.mp3",
+    "title" : "khoi-nghiep-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khoi-nghiep-3/khoi-nghiep-4.mp3",
+    "title" : "khoi-nghiep-4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/khoi-nghiep-3/khoi-nghiep-5.mp3",
+    "title" : "khoi-nghiep-5",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

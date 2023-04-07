@@ -1,0 +1,166 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/nhang-tan-thap-khuya_19818.html",
+    "title" : "Nhang Tàn Thắp Khuya",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Thị Thụy Vũ",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 25908,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage6/main/EPUB/EPUB_0503d5de9d7cb27e73fc5f1ee66e67cb.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage6/main/IMAGE/IMAGE_0503d5de9d7cb27e73fc5f1ee66e67cb.jpeg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/nhang-tan-thap-khuya.sna/NHANG_TAN_THAP_KHUYA_TRUYEN_DAI_01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1151,
+    "title" : "NHANG TAN THAP KHUYA TRUYEN DAI 01"
+  }, {
+    "href" : "https://archive.org/download/nhang-tan-thap-khuya.sna/NHANG_TAN_THAP_KHUYA_TRUYEN_DAI_02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1968,
+    "title" : "NHANG TAN THAP KHUYA TRUYEN DAI 02"
+  }, {
+    "href" : "https://archive.org/download/nhang-tan-thap-khuya.sna/NHANG_TAN_THAP_KHUYA_TRUYEN_DAI_03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1433,
+    "title" : "NHANG TAN THAP KHUYA TRUYEN DAI 03"
+  }, {
+    "href" : "https://archive.org/download/nhang-tan-thap-khuya.sna/NHANG_TAN_THAP_KHUYA_TRUYEN_DAI_04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1510,
+    "title" : "NHANG TAN THAP KHUYA TRUYEN DAI 04"
+  }, {
+    "href" : "https://archive.org/download/nhang-tan-thap-khuya.sna/NHANG_TAN_THAP_KHUYA_TRUYEN_DAI_05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1726,
+    "title" : "NHANG TAN THAP KHUYA TRUYEN DAI 05"
+  }, {
+    "href" : "https://archive.org/download/nhang-tan-thap-khuya.sna/NHANG_TAN_THAP_KHUYA_TRUYEN_DAI_06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2369,
+    "title" : "NHANG TAN THAP KHUYA TRUYEN DAI 06"
+  }, {
+    "href" : "https://archive.org/download/nhang-tan-thap-khuya.sna/NHANG_TAN_THAP_KHUYA_TRUYEN_DAI_07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2973,
+    "title" : "NHANG TAN THAP KHUYA TRUYEN DAI 07"
+  }, {
+    "href" : "https://archive.org/download/nhang-tan-thap-khuya.sna/NHANG_TAN_THAP_KHUYA_TRUYEN_DAI_08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1951,
+    "title" : "NHANG TAN THAP KHUYA TRUYEN DAI 08"
+  }, {
+    "href" : "https://archive.org/download/nhang-tan-thap-khuya.sna/NHANG_TAN_THAP_KHUYA_TRUYEN_DAI_09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1853,
+    "title" : "NHANG TAN THAP KHUYA TRUYEN DAI 09"
+  }, {
+    "href" : "https://archive.org/download/nhang-tan-thap-khuya.sna/NHANG_TAN_THAP_KHUYA_TRUYEN_DAI_10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2139,
+    "title" : "NHANG TAN THAP KHUYA TRUYEN DAI 10"
+  }, {
+    "href" : "https://archive.org/download/nhang-tan-thap-khuya.sna/NHANG_TAN_THAP_KHUYA_TRUYEN_DAI_11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2254,
+    "title" : "NHANG TAN THAP KHUYA TRUYEN DAI 11"
+  }, {
+    "href" : "https://archive.org/download/nhang-tan-thap-khuya.sna/NHANG_TAN_THAP_KHUYA_TRUYEN_DAI_12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2569,
+    "title" : "NHANG TAN THAP KHUYA TRUYEN DAI 12"
+  }, {
+    "href" : "https://archive.org/download/nhang-tan-thap-khuya.sna/NHANG_TAN_THAP_KHUYA_TRUYEN_DAI_13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2012,
+    "title" : "NHANG TAN THAP KHUYA TRUYEN DAI 13"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/nhang-tan-thap-khuya.sna/NHANG_TAN_THAP_KHUYA_TRUYEN_DAI_01.mp3",
+    "title" : "NHANG TAN THAP KHUYA TRUYEN DAI 01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhang-tan-thap-khuya.sna/NHANG_TAN_THAP_KHUYA_TRUYEN_DAI_02.mp3",
+    "title" : "NHANG TAN THAP KHUYA TRUYEN DAI 02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhang-tan-thap-khuya.sna/NHANG_TAN_THAP_KHUYA_TRUYEN_DAI_03.mp3",
+    "title" : "NHANG TAN THAP KHUYA TRUYEN DAI 03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhang-tan-thap-khuya.sna/NHANG_TAN_THAP_KHUYA_TRUYEN_DAI_04.mp3",
+    "title" : "NHANG TAN THAP KHUYA TRUYEN DAI 04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhang-tan-thap-khuya.sna/NHANG_TAN_THAP_KHUYA_TRUYEN_DAI_05.mp3",
+    "title" : "NHANG TAN THAP KHUYA TRUYEN DAI 05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhang-tan-thap-khuya.sna/NHANG_TAN_THAP_KHUYA_TRUYEN_DAI_06.mp3",
+    "title" : "NHANG TAN THAP KHUYA TRUYEN DAI 06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhang-tan-thap-khuya.sna/NHANG_TAN_THAP_KHUYA_TRUYEN_DAI_07.mp3",
+    "title" : "NHANG TAN THAP KHUYA TRUYEN DAI 07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhang-tan-thap-khuya.sna/NHANG_TAN_THAP_KHUYA_TRUYEN_DAI_08.mp3",
+    "title" : "NHANG TAN THAP KHUYA TRUYEN DAI 08",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhang-tan-thap-khuya.sna/NHANG_TAN_THAP_KHUYA_TRUYEN_DAI_09.mp3",
+    "title" : "NHANG TAN THAP KHUYA TRUYEN DAI 09",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhang-tan-thap-khuya.sna/NHANG_TAN_THAP_KHUYA_TRUYEN_DAI_10.mp3",
+    "title" : "NHANG TAN THAP KHUYA TRUYEN DAI 10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhang-tan-thap-khuya.sna/NHANG_TAN_THAP_KHUYA_TRUYEN_DAI_11.mp3",
+    "title" : "NHANG TAN THAP KHUYA TRUYEN DAI 11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhang-tan-thap-khuya.sna/NHANG_TAN_THAP_KHUYA_TRUYEN_DAI_12.mp3",
+    "title" : "NHANG TAN THAP KHUYA TRUYEN DAI 12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/nhang-tan-thap-khuya.sna/NHANG_TAN_THAP_KHUYA_TRUYEN_DAI_13.mp3",
+    "title" : "NHANG TAN THAP KHUYA TRUYEN DAI 13",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

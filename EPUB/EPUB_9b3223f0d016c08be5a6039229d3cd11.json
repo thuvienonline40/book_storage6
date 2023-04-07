@@ -1,0 +1,106 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/can-bang-cam-xuc-ca-luc-bao-giong_19451.html",
+    "title" : "Cân Bằng Cảm Xúc Cả Lúc Bão Giông",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Richard Nicholls",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 26476,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage6/main/EPUB/EPUB_9b3223f0d016c08be5a6039229d3cd11.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage6/main/IMAGE/IMAGE_9b3223f0d016c08be5a6039229d3cd11.jpeg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/can-bang-1/Can-Bang%201.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4853,
+    "title" : "Can-Bang 1"
+  }, {
+    "href" : "https://archive.org/download/can-bang-1/Can-Bang%202.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3434,
+    "title" : "Can-Bang 2"
+  }, {
+    "href" : "https://archive.org/download/can-bang-1/Can-Bang%203.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3280,
+    "title" : "Can-Bang 3"
+  }, {
+    "href" : "https://archive.org/download/can-bang-1/Can-Bang%204.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4053,
+    "title" : "Can-Bang 4"
+  }, {
+    "href" : "https://archive.org/download/can-bang-1/Can-Bang%205.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4572,
+    "title" : "Can-Bang 5"
+  }, {
+    "href" : "https://archive.org/download/can-bang-1/Can-Bang%206.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3138,
+    "title" : "Can-Bang 6"
+  }, {
+    "href" : "https://archive.org/download/can-bang-1/Can-Bang%207.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3146,
+    "title" : "Can-Bang 7"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/can-bang-1/Can-Bang%201.mp3",
+    "title" : "Can-Bang 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/can-bang-1/Can-Bang%202.mp3",
+    "title" : "Can-Bang 2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/can-bang-1/Can-Bang%203.mp3",
+    "title" : "Can-Bang 3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/can-bang-1/Can-Bang%204.mp3",
+    "title" : "Can-Bang 4",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/can-bang-1/Can-Bang%205.mp3",
+    "title" : "Can-Bang 5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/can-bang-1/Can-Bang%206.mp3",
+    "title" : "Can-Bang 6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/can-bang-1/Can-Bang%207.mp3",
+    "title" : "Can-Bang 7",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

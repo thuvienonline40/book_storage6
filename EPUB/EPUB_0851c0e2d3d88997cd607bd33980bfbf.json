@@ -1,0 +1,76 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/hanh-phuc-cam-tay_19260.html",
+    "title" : "Hạnh Phúc Cầm Tay",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thích Nhất Hạnh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 12969,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage6/main/EPUB/EPUB_0851c0e2d3d88997cd607bd33980bfbf.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage6/main/IMAGE/IMAGE_0851c0e2d3d88997cd607bd33980bfbf.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/hanh-phuc-1/hanh-phuc-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "hanh-phuc-1"
+  }, {
+    "href" : "https://archive.org/download/hanh-phuc-1/hanh-phuc-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "hanh-phuc-2"
+  }, {
+    "href" : "https://archive.org/download/hanh-phuc-1/hanh-phuc-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3600,
+    "title" : "hanh-phuc-3"
+  }, {
+    "href" : "https://archive.org/download/hanh-phuc-1/hanh-phuc-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2169,
+    "title" : "hanh-phuc-4"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/hanh-phuc-1/hanh-phuc-1.mp3",
+    "title" : "hanh-phuc-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hanh-phuc-1/hanh-phuc-2.mp3",
+    "title" : "hanh-phuc-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hanh-phuc-1/hanh-phuc-3.mp3",
+    "title" : "hanh-phuc-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/hanh-phuc-1/hanh-phuc-4.mp3",
+    "title" : "hanh-phuc-4",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

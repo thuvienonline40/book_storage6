@@ -1,0 +1,46 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/huong-rung-ca-mau_19822.html",
+    "title" : "Hương Rừng Cà Mau",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Sơn Nam",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 3573,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage6/main/EPUB/EPUB_2a281256f047975075ecef736cd7ea3d.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage6/main/IMAGE/IMAGE_2a281256f047975075ecef736cd7ea3d.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/huong-rung-ca-mau.sna/T%E1%BA%ADp%20Truy%E1%BB%87n%20Ng%E1%BA%AFn%20H%C6%B0%C6%A1ng%20R%E1%BB%ABng%20C%C3%A0%20Mau.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3573,
+    "title" : "Hương Rừng Cà Mau"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/huong-rung-ca-mau.sna/T%E1%BA%ADp%20Truy%E1%BB%87n%20Ng%E1%BA%AFn%20H%C6%B0%C6%A1ng%20R%E1%BB%ABng%20C%C3%A0%20Mau.mp3",
+    "title" : "Hương Rừng Cà Mau",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

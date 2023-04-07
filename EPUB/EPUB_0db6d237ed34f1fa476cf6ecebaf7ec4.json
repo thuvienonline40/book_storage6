@@ -1,0 +1,226 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/loan-mat-nhung_19714.html",
+    "title" : "Loan Mắt Nhung",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nguyễn Thụy Long",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 62787,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage6/main/EPUB/EPUB_0db6d237ed34f1fa476cf6ecebaf7ec4.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage6/main/IMAGE/IMAGE_0db6d237ed34f1fa476cf6ecebaf7ec4.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/7_20190903/1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3545,
+    "title" : "Tập 01 - Tiểu Thuyết tâm lý xã hội đặc sắc MC Hồng Nhung diễn đọc"
+  }, {
+    "href" : "https://archive.org/download/7_20190903/10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3560,
+    "title" : "Tập 10 - Tiểu Thuyết tâm lý xã hội đặc sắc MC Hồng Nhung diễn đọc"
+  }, {
+    "href" : "https://archive.org/download/7_20190903/11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3098,
+    "title" : "Tập 11 - Tiểu Thuyết tâm lý xã hội đặc sắc MC Hồng Nhung diễn đọc"
+  }, {
+    "href" : "https://archive.org/download/7_20190903/12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3722,
+    "title" : "Tập 12 - Tiểu Thuyết tâm lý xã hội đặc sắc MC Hồng Nhung diễn đọc"
+  }, {
+    "href" : "https://archive.org/download/7_20190903/13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3662,
+    "title" : "Tập 13 - Tiểu Thuyết tâm lý xã hội đặc sắc MC Hồng Nhung diễn đọc"
+  }, {
+    "href" : "https://archive.org/download/7_20190903/14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3584,
+    "title" : "Tập 14 - Tiểu Thuyết tâm lý xã hội đặc sắc MC Hồng Nhung diễn đọc"
+  }, {
+    "href" : "https://archive.org/download/7_20190903/15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2862,
+    "title" : "Tập 15 - Tiểu Thuyết tâm lý xã hội đặc sắc MC Hồng Nhung diễn đọc"
+  }, {
+    "href" : "https://archive.org/download/7_20190903/16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3122,
+    "title" : "Tập 16 - Tiểu Thuyết tâm lý xã hội đặc sắc MC Hồng Nhung diễn đọc"
+  }, {
+    "href" : "https://archive.org/download/7_20190903/17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3135,
+    "title" : "Tập 17 - Tiểu Thuyết tâm lý xã hội đặc sắc MC Hồng Nhung diễn đọc"
+  }, {
+    "href" : "https://archive.org/download/7_20190903/18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3046,
+    "title" : "Tập 18 - Tiểu Thuyết tâm lý xã hội đặc sắc MC Hồng Nhung diễn đọc"
+  }, {
+    "href" : "https://archive.org/download/7_20190903/19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3285,
+    "title" : "Tập 19 (Hết) - Tiểu Thuyết tâm lý xã hội đặc sắc MC Hồng Nhung diễn đọc"
+  }, {
+    "href" : "https://archive.org/download/7_20190903/2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3172,
+    "title" : "Tập 02 - Tiểu Thuyết tâm lý xã hội đặc sắc MC Hồng Nhung diễn đọc"
+  }, {
+    "href" : "https://archive.org/download/7_20190903/3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3250,
+    "title" : "Tập 03 - Tiểu Thuyết tâm lý xã hội đặc sắc MC Hồng Nhung diễn đọc"
+  }, {
+    "href" : "https://archive.org/download/7_20190903/4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3084,
+    "title" : "Tập 04 - Tiểu Thuyết tâm lý xã hội đặc sắc MC Hồng Nhung diễn đọc"
+  }, {
+    "href" : "https://archive.org/download/7_20190903/5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3166,
+    "title" : "Tập 05 - Tiểu Thuyết tâm lý xã hội đặc sắc MC Hồng Nhung diễn đọc"
+  }, {
+    "href" : "https://archive.org/download/7_20190903/6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3086,
+    "title" : "Tập 06 - Tiểu Thuyết tâm lý xã hội đặc sắc MC Hồng Nhung diễn đọc"
+  }, {
+    "href" : "https://archive.org/download/7_20190903/7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3815,
+    "title" : "Tập 07 - Tiểu Thuyết tâm lý xã hội đặc sắc MC Hồng Nhung diễn đọc"
+  }, {
+    "href" : "https://archive.org/download/7_20190903/8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3186,
+    "title" : "Tập 08 - Tiểu Thuyết tâm lý xã hội đặc sắc MC Hồng Nhung diễn đọc"
+  }, {
+    "href" : "https://archive.org/download/7_20190903/9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3407,
+    "title" : "Tập 09 - Tiểu Thuyết tâm lý xã hội đặc sắc MC Hồng Nhung diễn đọc"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/7_20190903/1.mp3",
+    "title" : "Tập 01 - Tiểu Thuyết tâm lý xã hội đặc sắc MC Hồng Nhung diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/7_20190903/10.mp3",
+    "title" : "Tập 10 - Tiểu Thuyết tâm lý xã hội đặc sắc MC Hồng Nhung diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/7_20190903/11.mp3",
+    "title" : "Tập 11 - Tiểu Thuyết tâm lý xã hội đặc sắc MC Hồng Nhung diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/7_20190903/12.mp3",
+    "title" : "Tập 12 - Tiểu Thuyết tâm lý xã hội đặc sắc MC Hồng Nhung diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/7_20190903/13.mp3",
+    "title" : "Tập 13 - Tiểu Thuyết tâm lý xã hội đặc sắc MC Hồng Nhung diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/7_20190903/14.mp3",
+    "title" : "Tập 14 - Tiểu Thuyết tâm lý xã hội đặc sắc MC Hồng Nhung diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/7_20190903/15.mp3",
+    "title" : "Tập 15 - Tiểu Thuyết tâm lý xã hội đặc sắc MC Hồng Nhung diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/7_20190903/16.mp3",
+    "title" : "Tập 16 - Tiểu Thuyết tâm lý xã hội đặc sắc MC Hồng Nhung diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/7_20190903/17.mp3",
+    "title" : "Tập 17 - Tiểu Thuyết tâm lý xã hội đặc sắc MC Hồng Nhung diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/7_20190903/18.mp3",
+    "title" : "Tập 18 - Tiểu Thuyết tâm lý xã hội đặc sắc MC Hồng Nhung diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/7_20190903/19.mp3",
+    "title" : "Tập 19 (Hết) - Tiểu Thuyết tâm lý xã hội đặc sắc MC Hồng Nhung diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/7_20190903/2.mp3",
+    "title" : "Tập 02 - Tiểu Thuyết tâm lý xã hội đặc sắc MC Hồng Nhung diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/7_20190903/3.mp3",
+    "title" : "Tập 03 - Tiểu Thuyết tâm lý xã hội đặc sắc MC Hồng Nhung diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/7_20190903/4.mp3",
+    "title" : "Tập 04 - Tiểu Thuyết tâm lý xã hội đặc sắc MC Hồng Nhung diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/7_20190903/5.mp3",
+    "title" : "Tập 05 - Tiểu Thuyết tâm lý xã hội đặc sắc MC Hồng Nhung diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/7_20190903/6.mp3",
+    "title" : "Tập 06 - Tiểu Thuyết tâm lý xã hội đặc sắc MC Hồng Nhung diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/7_20190903/7.mp3",
+    "title" : "Tập 07 - Tiểu Thuyết tâm lý xã hội đặc sắc MC Hồng Nhung diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/7_20190903/8.mp3",
+    "title" : "Tập 08 - Tiểu Thuyết tâm lý xã hội đặc sắc MC Hồng Nhung diễn đọc",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/7_20190903/9.mp3",
+    "title" : "Tập 09 - Tiểu Thuyết tâm lý xã hội đặc sắc MC Hồng Nhung diễn đọc",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,46 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/quy-tac-cua-su-thanh-lich_19371.html",
+    "title" : "Quy Tắc Của Sự Thanh Lịch",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Emiko Kato",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 3816,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage6/main/EPUB/EPUB_89c33b2cdcaf9241a27636687ab2fa7e.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage6/main/IMAGE/IMAGE_89c33b2cdcaf9241a27636687ab2fa7e.jpeg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/quy-tac/quy-tac.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3816,
+    "title" : "quy-tac"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/quy-tac/quy-tac.mp3",
+    "title" : "quy-tac",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

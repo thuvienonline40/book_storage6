@@ -1,0 +1,76 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/be-khoa-bi-mat-trieu-phu_19908.html",
+    "title" : "Bẻ Khóa Bí Mật Triệu Phú",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Thomas J. Stanley",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 15592,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage6/main/EPUB/EPUB_5a5c3a86716ea06578e1db79811156af.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage6/main/IMAGE/IMAGE_5a5c3a86716ea06578e1db79811156af.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/be-khoa-2/be-khoa-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4217,
+    "title" : "be-khoa-1"
+  }, {
+    "href" : "https://archive.org/download/be-khoa-2/be-khoa-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4260,
+    "title" : "be-khoa-2"
+  }, {
+    "href" : "https://archive.org/download/be-khoa-2/be-khoa-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4260,
+    "title" : "be-khoa-3"
+  }, {
+    "href" : "https://archive.org/download/be-khoa-2/be-khoa-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2855,
+    "title" : "be-khoa-4"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/be-khoa-2/be-khoa-1.mp3",
+    "title" : "be-khoa-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/be-khoa-2/be-khoa-2.mp3",
+    "title" : "be-khoa-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/be-khoa-2/be-khoa-3.mp3",
+    "title" : "be-khoa-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/be-khoa-2/be-khoa-4.mp3",
+    "title" : "be-khoa-4",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

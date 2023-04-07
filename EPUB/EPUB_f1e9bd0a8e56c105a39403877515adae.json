@@ -1,0 +1,176 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/tam-va-ke-nguoi-do-thai_19616.html",
+    "title" : "Tâm Và Kế Người Do Thái",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Hoài Thu",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-07",
+    "duration" : 34744,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage6/main/EPUB/EPUB_f1e9bd0a8e56c105a39403877515adae.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage6/main/IMAGE/IMAGE_f1e9bd0a8e56c105a39403877515adae.jpeg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/tam-va-ke-nguoi-do-thai-chia-khoa-lam-giau.sna/TamKeNguoiDoThai01A_Chuan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2700,
+    "title" : "TamKeNguoiDoThai01A Chuan"
+  }, {
+    "href" : "https://archive.org/download/tam-va-ke-nguoi-do-thai-chia-khoa-lam-giau.sna/TamKeNguoiDoThai01B_Chuan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2707,
+    "title" : "TamKeNguoiDoThai01B Chuan"
+  }, {
+    "href" : "https://archive.org/download/tam-va-ke-nguoi-do-thai-chia-khoa-lam-giau.sna/TamKeNguoiDoThai01C.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2601,
+    "title" : "TamKeNguoiDoThai01C"
+  }, {
+    "href" : "https://archive.org/download/tam-va-ke-nguoi-do-thai-chia-khoa-lam-giau.sna/TamKeNguoiDoThai01D.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2832,
+    "title" : "TamKeNguoiDoThai01D"
+  }, {
+    "href" : "https://archive.org/download/tam-va-ke-nguoi-do-thai-chia-khoa-lam-giau.sna/TamKeNguoiDoThai01E_Chuan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2738,
+    "title" : "TamKeNguoiDoThai01E Chuan"
+  }, {
+    "href" : "https://archive.org/download/tam-va-ke-nguoi-do-thai-chia-khoa-lam-giau.sna/TamKeNguoiDoThai02A_Chuan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2251,
+    "title" : "TamKeNguoiDoThai02A Chuan"
+  }, {
+    "href" : "https://archive.org/download/tam-va-ke-nguoi-do-thai-chia-khoa-lam-giau.sna/TamKeNguoiDoThai02B.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2922,
+    "title" : "TamKeNguoiDoThai02B"
+  }, {
+    "href" : "https://archive.org/download/tam-va-ke-nguoi-do-thai-chia-khoa-lam-giau.sna/TamKeNguoiDoThai03A.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2278,
+    "title" : "TamKeNguoiDoThai03A"
+  }, {
+    "href" : "https://archive.org/download/tam-va-ke-nguoi-do-thai-chia-khoa-lam-giau.sna/TamKeNguoiDoThai03B_Chuan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3091,
+    "title" : "TamKeNguoiDoThai03B Chuan"
+  }, {
+    "href" : "https://archive.org/download/tam-va-ke-nguoi-do-thai-chia-khoa-lam-giau.sna/TamKeNguoiDoThai04A.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2150,
+    "title" : "TamKeNguoiDoThai04A"
+  }, {
+    "href" : "https://archive.org/download/tam-va-ke-nguoi-do-thai-chia-khoa-lam-giau.sna/TamKeNguoiDoThai04B.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1896,
+    "title" : "TamKeNguoiDoThai04B"
+  }, {
+    "href" : "https://archive.org/download/tam-va-ke-nguoi-do-thai-chia-khoa-lam-giau.sna/TamKeNguoiDoThai04C_Chuan.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2231,
+    "title" : "TamKeNguoiDoThai04C Chuan"
+  }, {
+    "href" : "https://archive.org/download/tam-va-ke-nguoi-do-thai-chia-khoa-lam-giau.sna/TamKeNguoiDoThai04D.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2529,
+    "title" : "TamKeNguoiDoThai04D"
+  }, {
+    "href" : "https://archive.org/download/tam-va-ke-nguoi-do-thai-chia-khoa-lam-giau.sna/TamKeNguoiDoThai05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1818,
+    "title" : "TamKeNguoiDoThai05"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/tam-va-ke-nguoi-do-thai-chia-khoa-lam-giau.sna/TamKeNguoiDoThai01A_Chuan.mp3",
+    "title" : "TamKeNguoiDoThai01A Chuan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-va-ke-nguoi-do-thai-chia-khoa-lam-giau.sna/TamKeNguoiDoThai01B_Chuan.mp3",
+    "title" : "TamKeNguoiDoThai01B Chuan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-va-ke-nguoi-do-thai-chia-khoa-lam-giau.sna/TamKeNguoiDoThai01C.mp3",
+    "title" : "TamKeNguoiDoThai01C",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-va-ke-nguoi-do-thai-chia-khoa-lam-giau.sna/TamKeNguoiDoThai01D.mp3",
+    "title" : "TamKeNguoiDoThai01D",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-va-ke-nguoi-do-thai-chia-khoa-lam-giau.sna/TamKeNguoiDoThai01E_Chuan.mp3",
+    "title" : "TamKeNguoiDoThai01E Chuan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-va-ke-nguoi-do-thai-chia-khoa-lam-giau.sna/TamKeNguoiDoThai02A_Chuan.mp3",
+    "title" : "TamKeNguoiDoThai02A Chuan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-va-ke-nguoi-do-thai-chia-khoa-lam-giau.sna/TamKeNguoiDoThai02B.mp3",
+    "title" : "TamKeNguoiDoThai02B",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-va-ke-nguoi-do-thai-chia-khoa-lam-giau.sna/TamKeNguoiDoThai03A.mp3",
+    "title" : "TamKeNguoiDoThai03A",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-va-ke-nguoi-do-thai-chia-khoa-lam-giau.sna/TamKeNguoiDoThai03B_Chuan.mp3",
+    "title" : "TamKeNguoiDoThai03B Chuan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-va-ke-nguoi-do-thai-chia-khoa-lam-giau.sna/TamKeNguoiDoThai04A.mp3",
+    "title" : "TamKeNguoiDoThai04A",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-va-ke-nguoi-do-thai-chia-khoa-lam-giau.sna/TamKeNguoiDoThai04B.mp3",
+    "title" : "TamKeNguoiDoThai04B",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-va-ke-nguoi-do-thai-chia-khoa-lam-giau.sna/TamKeNguoiDoThai04C_Chuan.mp3",
+    "title" : "TamKeNguoiDoThai04C Chuan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-va-ke-nguoi-do-thai-chia-khoa-lam-giau.sna/TamKeNguoiDoThai04D.mp3",
+    "title" : "TamKeNguoiDoThai04D",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tam-va-ke-nguoi-do-thai-chia-khoa-lam-giau.sna/TamKeNguoiDoThai05.mp3",
+    "title" : "TamKeNguoiDoThai05",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
