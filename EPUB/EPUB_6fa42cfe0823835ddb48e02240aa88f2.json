@@ -1,0 +1,86 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/phu-nu-diem-tinh-la-nguoi-hanh-phuc-nhat_20011.html",
+    "title" : "Phụ Nữ Điềm Tĩnh Là Người Hạnh Phúc Nhất",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Vi Khanh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-12",
+    "duration" : 19799,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage6/main/EPUB/EPUB_6fa42cfe0823835ddb48e02240aa88f2.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage6/main/IMAGE/IMAGE_6fa42cfe0823835ddb48e02240aa88f2.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/phu-nu-1/phu-nu-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4909,
+    "title" : "Giải trí cùng youtube | [Sách nói] Phụ Nữ Điềm Tĩnh Là Người Hạnh Phúc Nhất/Chương 1"
+  }, {
+    "href" : "https://archive.org/download/phu-nu-1/phu-nu-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3812,
+    "title" : "phu-nu-2"
+  }, {
+    "href" : "https://archive.org/download/phu-nu-1/phu-nu-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4240,
+    "title" : "phu-nu-3"
+  }, {
+    "href" : "https://archive.org/download/phu-nu-1/phu-nu-4.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2909,
+    "title" : "[Sách nói] Phụ nữ điềm tĩnh là người hạnh phúc hạnh phúc nhất/chương 4: Tính cách thanh nhã."
+  }, {
+    "href" : "https://archive.org/download/phu-nu-1/phu-nu-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3929,
+    "title" : "[Sách nói] Phụ nữ điềm tĩnh là người hạnh phúc nhất/Chương 5: Có một loại hạnh phúc mang tên chờ đơi"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/phu-nu-1/phu-nu-1.mp3",
+    "title" : "Giải trí cùng youtube | [Sách nói] Phụ Nữ Điềm Tĩnh Là Người Hạnh Phúc Nhất/Chương 1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phu-nu-1/phu-nu-2.mp3",
+    "title" : "phu-nu-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phu-nu-1/phu-nu-3.mp3",
+    "title" : "phu-nu-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phu-nu-1/phu-nu-4.mp3",
+    "title" : "[Sách nói] Phụ nữ điềm tĩnh là người hạnh phúc hạnh phúc nhất/chương 4: Tính cách thanh nhã.",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/phu-nu-1/phu-nu-5.mp3",
+    "title" : "[Sách nói] Phụ nữ điềm tĩnh là người hạnh phúc nhất/Chương 5: Có một loại hạnh phúc mang tên chờ đơi",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,166 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/con-duong-di-den-thanh-cong-bang-su-tu-te_19860.html",
+    "title" : "Con Đường Đi Đến Thành Công Bằng Sự Tử Tế",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Inamori Kazuo",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-12",
+    "duration" : 18148,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage6/main/EPUB/EPUB_c5d00d2e407691a9a5abf975beb53ff6.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage6/main/IMAGE/IMAGE_c5d00d2e407691a9a5abf975beb53ff6.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/con-duong-di-den-thanh-cong-bang-su-tu-te.sna/01.C00_MoDau_ConDuongDiDenThanhCongBangSuTuTe.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1435,
+    "title" : "01.C00 MoDau ConDuongDiDenThanhCongBangSuTuTe"
+  }, {
+    "href" : "https://archive.org/download/con-duong-di-den-thanh-cong-bang-su-tu-te.sna/02.C01_VoTu_ConDuongDiDenThanhCongBangSuTuTe.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1168,
+    "title" : "02.C01 VoTu ConDuongDiDenThanhCongBangSuTuTe"
+  }, {
+    "href" : "https://archive.org/download/con-duong-di-den-thanh-cong-bang-su-tu-te.sna/03.C02_ThuThach_ConDuongDiDenThanhCongBangSuTuTe.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1707,
+    "title" : "03.C02 ThuThach ConDuongDiDenThanhCongBangSuTuTe"
+  }, {
+    "href" : "https://archive.org/download/con-duong-di-den-thanh-cong-bang-su-tu-te.sna/04.C03_LoiTha_ConDuongDiDenThanhCongBangSuTuTe.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2137,
+    "title" : "04.C03 LoiTha ConDuongDiDenThanhCongBangSuTuTe"
+  }, {
+    "href" : "https://archive.org/download/con-duong-di-den-thanh-cong-bang-su-tu-te.sna/05.C04_DaiNghia_ConDuongDiDenThanhCongBangSuTuTe.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1479,
+    "title" : "05.C04 DaiNghia ConDuongDiDenThanhCongBangSuTuTe"
+  }, {
+    "href" : "https://archive.org/download/con-duong-di-den-thanh-cong-bang-su-tu-te.sna/06.C05_DaiKe_ConDuongDiDenThanhCongBangSuTuTe.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1289,
+    "title" : "06.C05 DaiKe ConDuongDiDenThanhCongBangSuTuTe"
+  }, {
+    "href" : "https://archive.org/download/con-duong-di-den-thanh-cong-bang-su-tu-te.sna/07.C06_GiacNgo_ConDuongDiDenThanhCongBangSuTuTe.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1242,
+    "title" : "07.C06 GiacNgo ConDuongDiDenThanhCongBangSuTuTe"
+  }, {
+    "href" : "https://archive.org/download/con-duong-di-den-thanh-cong-bang-su-tu-te.sna/08.C07_VuongDao_ConDuongDiDenThanhCongBangSuTuTe.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1053,
+    "title" : "08.C07 VuongDao ConDuongDiDenThanhCongBangSuTuTe"
+  }, {
+    "href" : "https://archive.org/download/con-duong-di-den-thanh-cong-bang-su-tu-te.sna/09.C08_LongThanh_ConDuongDiDenThanhCongBangSuTuTe.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 842,
+    "title" : "09.C08 LongThanh ConDuongDiDenThanhCongBangSuTuTe"
+  }, {
+    "href" : "https://archive.org/download/con-duong-di-den-thanh-cong-bang-su-tu-te.sna/10.C09_LongTin_ConDuongDiDenThanhCongBangSuTuTe.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1803,
+    "title" : "10.C09 LongTin ConDuongDiDenThanhCongBangSuTuTe"
+  }, {
+    "href" : "https://archive.org/download/con-duong-di-den-thanh-cong-bang-su-tu-te.sna/11.C10_LapChi_ConDuongDiDenThanhCongBangSuTuTe.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 925,
+    "title" : "11.C10 LapChi ConDuongDiDenThanhCongBangSuTuTe"
+  }, {
+    "href" : "https://archive.org/download/con-duong-di-den-thanh-cong-bang-su-tu-te.sna/12.C11_TinhTien_ConDuongDiDenThanhCongBangSuTuTe.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1061,
+    "title" : "12.C11 TinhTien ConDuongDiDenThanhCongBangSuTuTe"
+  }, {
+    "href" : "https://archive.org/download/con-duong-di-den-thanh-cong-bang-su-tu-te.sna/13.C12_HET_KyVong_ConDuongDiDenThanhCongBangSuTuTe.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2007,
+    "title" : "13.C12 HET KyVong ConDuongDiDenThanhCongBangSuTuTe"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/con-duong-di-den-thanh-cong-bang-su-tu-te.sna/01.C00_MoDau_ConDuongDiDenThanhCongBangSuTuTe.mp3",
+    "title" : "01.C00 MoDau ConDuongDiDenThanhCongBangSuTuTe",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/con-duong-di-den-thanh-cong-bang-su-tu-te.sna/02.C01_VoTu_ConDuongDiDenThanhCongBangSuTuTe.mp3",
+    "title" : "02.C01 VoTu ConDuongDiDenThanhCongBangSuTuTe",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/con-duong-di-den-thanh-cong-bang-su-tu-te.sna/03.C02_ThuThach_ConDuongDiDenThanhCongBangSuTuTe.mp3",
+    "title" : "03.C02 ThuThach ConDuongDiDenThanhCongBangSuTuTe",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/con-duong-di-den-thanh-cong-bang-su-tu-te.sna/04.C03_LoiTha_ConDuongDiDenThanhCongBangSuTuTe.mp3",
+    "title" : "04.C03 LoiTha ConDuongDiDenThanhCongBangSuTuTe",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/con-duong-di-den-thanh-cong-bang-su-tu-te.sna/05.C04_DaiNghia_ConDuongDiDenThanhCongBangSuTuTe.mp3",
+    "title" : "05.C04 DaiNghia ConDuongDiDenThanhCongBangSuTuTe",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/con-duong-di-den-thanh-cong-bang-su-tu-te.sna/06.C05_DaiKe_ConDuongDiDenThanhCongBangSuTuTe.mp3",
+    "title" : "06.C05 DaiKe ConDuongDiDenThanhCongBangSuTuTe",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/con-duong-di-den-thanh-cong-bang-su-tu-te.sna/07.C06_GiacNgo_ConDuongDiDenThanhCongBangSuTuTe.mp3",
+    "title" : "07.C06 GiacNgo ConDuongDiDenThanhCongBangSuTuTe",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/con-duong-di-den-thanh-cong-bang-su-tu-te.sna/08.C07_VuongDao_ConDuongDiDenThanhCongBangSuTuTe.mp3",
+    "title" : "08.C07 VuongDao ConDuongDiDenThanhCongBangSuTuTe",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/con-duong-di-den-thanh-cong-bang-su-tu-te.sna/09.C08_LongThanh_ConDuongDiDenThanhCongBangSuTuTe.mp3",
+    "title" : "09.C08 LongThanh ConDuongDiDenThanhCongBangSuTuTe",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/con-duong-di-den-thanh-cong-bang-su-tu-te.sna/10.C09_LongTin_ConDuongDiDenThanhCongBangSuTuTe.mp3",
+    "title" : "10.C09 LongTin ConDuongDiDenThanhCongBangSuTuTe",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/con-duong-di-den-thanh-cong-bang-su-tu-te.sna/11.C10_LapChi_ConDuongDiDenThanhCongBangSuTuTe.mp3",
+    "title" : "11.C10 LapChi ConDuongDiDenThanhCongBangSuTuTe",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/con-duong-di-den-thanh-cong-bang-su-tu-te.sna/12.C11_TinhTien_ConDuongDiDenThanhCongBangSuTuTe.mp3",
+    "title" : "12.C11 TinhTien ConDuongDiDenThanhCongBangSuTuTe",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/con-duong-di-den-thanh-cong-bang-su-tu-te.sna/13.C12_HET_KyVong_ConDuongDiDenThanhCongBangSuTuTe.mp3",
+    "title" : "13.C12 HET KyVong ConDuongDiDenThanhCongBangSuTuTe",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

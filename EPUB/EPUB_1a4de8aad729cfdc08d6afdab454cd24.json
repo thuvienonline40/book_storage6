@@ -1,0 +1,136 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/tu-dai-quyen-luc_19979.html",
+    "title" : "Tứ Đại Quyền Lực",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Scott Galloway",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-12",
+    "duration" : 25790,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage6/main/EPUB/EPUB_1a4de8aad729cfdc08d6afdab454cd24.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage6/main/IMAGE/IMAGE_1a4de8aad729cfdc08d6afdab454cd24.JPG",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/tudaiquyenluc/L%C3%A1%20th%C6%B0%20%C4%91%C3%B4%20th%E1%BB%8B%20.%C4%90%E1%BB%A9c%20Truy%E1%BB%81n.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 373,
+    "title" : "Lá thư đô thị .Đức Truyền"
+  }, {
+    "href" : "https://archive.org/download/tudaiquyenluc/Tu%20%C4%91ai%20quyen%20luc%20%20%20Chuong%201%20Bo%20tu%20quyen%20luc.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1221,
+    "title" : "Tứ đại quyền lực Chương 1 Bộ tứ quyền lực"
+  }, {
+    "href" : "https://archive.org/download/tudaiquyenluc/Tu%20%C4%91ai%20quyen%20luc%20%20%20Chuong%202%20Amazon.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 6128,
+    "title" : "Tứ đại quyền lực Chương 2 Amazon"
+  }, {
+    "href" : "https://archive.org/download/tudaiquyenluc/Tu%20%C4%91ai%20quyen%20luc%20%20%20Chuong%204%20Facebook.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3597,
+    "title" : "Tứ đại quyền lực Chương 4 Facebook"
+  }, {
+    "href" : "https://archive.org/download/tudaiquyenluc/Tu%20%C4%91ai%20quyen%20luc%20%20%20Chuong%205%20Google.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4143,
+    "title" : "Tứ đại quyền lực Chương 5 Google"
+  }, {
+    "href" : "https://archive.org/download/tudaiquyenluc/Tu%20%C4%91ai%20quyen%20luc%20%20%20Chuong%206%20Noi%201%20%C4%91ang%2C%20lam%201%20neo.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1508,
+    "title" : "Tứ đại quyền lực Chương 6 Nói 1 đằng, làm 1 nẻo"
+  }, {
+    "href" : "https://archive.org/download/tudaiquyenluc/Tu%20%C4%91ai%20quyen%20luc%20%20%20Loi%20noi%20%C4%91au.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 424,
+    "title" : "Tứ đại quyền lực Lời nói đầu"
+  }, {
+    "href" : "https://archive.org/download/tudaiquyenluc/Tu%20%C4%91ai%20quyen%20luc%20Chuong%203%20Apple.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4057,
+    "title" : "Tứ đại quyền lực Chương 3 Apple"
+  }, {
+    "href" : "https://archive.org/download/tudaiquyenluc/Tu%20%C4%91ai%20quyen%20luc%20Chuong%207%20Doanh%20nghi%E1%BB%87p%20v%C3%A0%20c%C6%A1%20th%E1%BB%83%20con%20ng%C6%B0%E1%BB%9Di.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1724,
+    "title" : "Tứ đại quyền lực Chương 7 Doanh nghiệp và cơ thể con người"
+  }, {
+    "href" : "https://archive.org/download/tudaiquyenluc/Tu%20%C4%91ai%20quy%E1%BB%81n%20l%E1%BB%B1c%20%20Chuong%208%20Thu%E1%BA%ADt%20to%C3%A1n%20T.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2615,
+    "title" : "Tứ đại quyền lực Chương 8 Thuật toán T"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/tudaiquyenluc/L%C3%A1%20th%C6%B0%20%C4%91%C3%B4%20th%E1%BB%8B%20.%C4%90%E1%BB%A9c%20Truy%E1%BB%81n.mp3",
+    "title" : "Lá thư đô thị .Đức Truyền",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tudaiquyenluc/Tu%20%C4%91ai%20quyen%20luc%20%20%20Chuong%201%20Bo%20tu%20quyen%20luc.mp3",
+    "title" : "Tứ đại quyền lực Chương 1 Bộ tứ quyền lực",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tudaiquyenluc/Tu%20%C4%91ai%20quyen%20luc%20%20%20Chuong%202%20Amazon.mp3",
+    "title" : "Tứ đại quyền lực Chương 2 Amazon",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tudaiquyenluc/Tu%20%C4%91ai%20quyen%20luc%20%20%20Chuong%204%20Facebook.mp3",
+    "title" : "Tứ đại quyền lực Chương 4 Facebook",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tudaiquyenluc/Tu%20%C4%91ai%20quyen%20luc%20%20%20Chuong%205%20Google.mp3",
+    "title" : "Tứ đại quyền lực Chương 5 Google",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tudaiquyenluc/Tu%20%C4%91ai%20quyen%20luc%20%20%20Chuong%206%20Noi%201%20%C4%91ang%2C%20lam%201%20neo.mp3",
+    "title" : "Tứ đại quyền lực Chương 6 Nói 1 đằng, làm 1 nẻo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tudaiquyenluc/Tu%20%C4%91ai%20quyen%20luc%20%20%20Loi%20noi%20%C4%91au.mp3",
+    "title" : "Tứ đại quyền lực Lời nói đầu",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tudaiquyenluc/Tu%20%C4%91ai%20quyen%20luc%20Chuong%203%20Apple.mp3",
+    "title" : "Tứ đại quyền lực Chương 3 Apple",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tudaiquyenluc/Tu%20%C4%91ai%20quyen%20luc%20Chuong%207%20Doanh%20nghi%E1%BB%87p%20v%C3%A0%20c%C6%A1%20th%E1%BB%83%20con%20ng%C6%B0%E1%BB%9Di.mp3",
+    "title" : "Tứ đại quyền lực Chương 7 Doanh nghiệp và cơ thể con người",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/tudaiquyenluc/Tu%20%C4%91ai%20quy%E1%BB%81n%20l%E1%BB%B1c%20%20Chuong%208%20Thu%E1%BA%ADt%20to%C3%A1n%20T.mp3",
+    "title" : "Tứ đại quyền lực Chương 8 Thuật toán T",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
