@@ -1,0 +1,136 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/talmud-tinh-hoa-tri-tue-do-thai_20021.html",
+    "title" : "Talmud, Tinh Hoa Trí Tuệ Do Thái",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Từ Quang Á",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-22",
+    "duration" : 23557,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage6/main/EPUB/EPUB_ce4277d1a15cbe5fce256eff8adcd015.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage6/main/IMAGE/IMAGE_ce4277d1a15cbe5fce256eff8adcd015.jpeg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/talmud-tinh-hoa-tri-tue-do-thai-audio-.sna/01.GioiThieu_TinhHoaTriTueDoThai.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 289,
+    "title" : "01.GioiThieu TinhHoaTriTueDoThai"
+  }, {
+    "href" : "https://archive.org/download/talmud-tinh-hoa-tri-tue-do-thai-audio-.sna/02.C0102_TinhHoaTriTueDoThai.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2483,
+    "title" : "02.C0102 TinhHoaTriTueDoThai"
+  }, {
+    "href" : "https://archive.org/download/talmud-tinh-hoa-tri-tue-do-thai-audio-.sna/03.C03-C06_TinhHoaTriTueDoThai.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2346,
+    "title" : "03.C03-C06 TinhHoaTriTueDoThai"
+  }, {
+    "href" : "https://archive.org/download/talmud-tinh-hoa-tri-tue-do-thai-audio-.sna/04.C07-C10_TinhHoaTriTueDoThai.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3000,
+    "title" : "04.C07-C10 TinhHoaTriTueDoThai"
+  }, {
+    "href" : "https://archive.org/download/talmud-tinh-hoa-tri-tue-do-thai-audio-.sna/05.C11-C13_TinhHoaTriTueDoThai.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2449,
+    "title" : "05.C11-C13 TinhHoaTriTueDoThai"
+  }, {
+    "href" : "https://archive.org/download/talmud-tinh-hoa-tri-tue-do-thai-audio-.sna/06.C14-C18_TinhHoaTriTueDoThai.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2654,
+    "title" : "06.C14-C18 TinhHoaTriTueDoThai"
+  }, {
+    "href" : "https://archive.org/download/talmud-tinh-hoa-tri-tue-do-thai-audio-.sna/07.C19-C22_TinhHoaTriTueDoThai.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2552,
+    "title" : "07.C19-C22 TinhHoaTriTueDoThai"
+  }, {
+    "href" : "https://archive.org/download/talmud-tinh-hoa-tri-tue-do-thai-audio-.sna/08.C23-C28_TinhHoaTriTueDoThai.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2365,
+    "title" : "08.C23-C28 TinhHoaTriTueDoThai"
+  }, {
+    "href" : "https://archive.org/download/talmud-tinh-hoa-tri-tue-do-thai-audio-.sna/09.C29-C32_TinhHoaTriTueDoThai.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2206,
+    "title" : "09.C29-C32 TinhHoaTriTueDoThai"
+  }, {
+    "href" : "https://archive.org/download/talmud-tinh-hoa-tri-tue-do-thai-audio-.sna/10.C33-C36_HET_TinhHoaTriTueDoThai.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3213,
+    "title" : "10.C33-C36 HET TinhHoaTriTueDoThai"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/talmud-tinh-hoa-tri-tue-do-thai-audio-.sna/01.GioiThieu_TinhHoaTriTueDoThai.mp3",
+    "title" : "01.GioiThieu TinhHoaTriTueDoThai",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/talmud-tinh-hoa-tri-tue-do-thai-audio-.sna/02.C0102_TinhHoaTriTueDoThai.mp3",
+    "title" : "02.C0102 TinhHoaTriTueDoThai",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/talmud-tinh-hoa-tri-tue-do-thai-audio-.sna/03.C03-C06_TinhHoaTriTueDoThai.mp3",
+    "title" : "03.C03-C06 TinhHoaTriTueDoThai",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/talmud-tinh-hoa-tri-tue-do-thai-audio-.sna/04.C07-C10_TinhHoaTriTueDoThai.mp3",
+    "title" : "04.C07-C10 TinhHoaTriTueDoThai",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/talmud-tinh-hoa-tri-tue-do-thai-audio-.sna/05.C11-C13_TinhHoaTriTueDoThai.mp3",
+    "title" : "05.C11-C13 TinhHoaTriTueDoThai",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/talmud-tinh-hoa-tri-tue-do-thai-audio-.sna/06.C14-C18_TinhHoaTriTueDoThai.mp3",
+    "title" : "06.C14-C18 TinhHoaTriTueDoThai",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/talmud-tinh-hoa-tri-tue-do-thai-audio-.sna/07.C19-C22_TinhHoaTriTueDoThai.mp3",
+    "title" : "07.C19-C22 TinhHoaTriTueDoThai",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/talmud-tinh-hoa-tri-tue-do-thai-audio-.sna/08.C23-C28_TinhHoaTriTueDoThai.mp3",
+    "title" : "08.C23-C28 TinhHoaTriTueDoThai",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/talmud-tinh-hoa-tri-tue-do-thai-audio-.sna/09.C29-C32_TinhHoaTriTueDoThai.mp3",
+    "title" : "09.C29-C32 TinhHoaTriTueDoThai",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/talmud-tinh-hoa-tri-tue-do-thai-audio-.sna/10.C33-C36_HET_TinhHoaTriTueDoThai.mp3",
+    "title" : "10.C33-C36 HET TinhHoaTriTueDoThai",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

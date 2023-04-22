@@ -1,0 +1,276 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/truyen-ngan-trang-the-hy_20064.html",
+    "title" : "Truyện Ngắn Trang Thế Hy",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Trang Thế Hy",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-22",
+    "duration" : 55919,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage6/main/EPUB/EPUB_68f3fca757eebbed549bcda572cb574e.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage6/main/IMAGE/IMAGE_68f3fca757eebbed549bcda572cb574e.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/truyen-ngan-trang-the-hy.sna/TRUYEN_NGAN_TRANG_THE_HY-01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 949,
+    "title" : "TRUYEN NGAN TRANG THE HY-01"
+  }, {
+    "href" : "https://archive.org/download/truyen-ngan-trang-the-hy.sna/TRUYEN_NGAN_TRANG_THE_HY-02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2105,
+    "title" : "TRUYEN NGAN TRANG THE HY-02"
+  }, {
+    "href" : "https://archive.org/download/truyen-ngan-trang-the-hy.sna/TRUYEN_NGAN_TRANG_THE_HY-03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2013,
+    "title" : "TRUYEN NGAN TRANG THE HY-03"
+  }, {
+    "href" : "https://archive.org/download/truyen-ngan-trang-the-hy.sna/TRUYEN_NGAN_TRANG_THE_HY-04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2718,
+    "title" : "TRUYEN NGAN TRANG THE HY-04"
+  }, {
+    "href" : "https://archive.org/download/truyen-ngan-trang-the-hy.sna/TRUYEN_NGAN_TRANG_THE_HY-05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2307,
+    "title" : "TRUYEN NGAN TRANG THE HY-05"
+  }, {
+    "href" : "https://archive.org/download/truyen-ngan-trang-the-hy.sna/TRUYEN_NGAN_TRANG_THE_HY-06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2149,
+    "title" : "TRUYEN NGAN TRANG THE HY-06"
+  }, {
+    "href" : "https://archive.org/download/truyen-ngan-trang-the-hy.sna/TRUYEN_NGAN_TRANG_THE_HY-07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3530,
+    "title" : "TRUYEN NGAN TRANG THE HY-07"
+  }, {
+    "href" : "https://archive.org/download/truyen-ngan-trang-the-hy.sna/TRUYEN_NGAN_TRANG_THE_HY-08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3358,
+    "title" : "TRUYEN NGAN TRANG THE HY-08"
+  }, {
+    "href" : "https://archive.org/download/truyen-ngan-trang-the-hy.sna/TRUYEN_NGAN_TRANG_THE_HY-09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3372,
+    "title" : "TRUYEN NGAN TRANG THE HY-09"
+  }, {
+    "href" : "https://archive.org/download/truyen-ngan-trang-the-hy.sna/TRUYEN_NGAN_TRANG_THE_HY-10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2781,
+    "title" : "TRUYEN NGAN TRANG THE HY-10"
+  }, {
+    "href" : "https://archive.org/download/truyen-ngan-trang-the-hy.sna/TRUYEN_NGAN_TRANG_THE_HY-11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1935,
+    "title" : "TRUYEN NGAN TRANG THE HY-11"
+  }, {
+    "href" : "https://archive.org/download/truyen-ngan-trang-the-hy.sna/TRUYEN_NGAN_TRANG_THE_HY-12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2490,
+    "title" : "TRUYEN NGAN TRANG THE HY-12"
+  }, {
+    "href" : "https://archive.org/download/truyen-ngan-trang-the-hy.sna/TRUYEN_NGAN_TRANG_THE_HY-13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 830,
+    "title" : "TRUYEN NGAN TRANG THE HY-13"
+  }, {
+    "href" : "https://archive.org/download/truyen-ngan-trang-the-hy.sna/TRUYEN_NGAN_TRANG_THE_HY-14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2715,
+    "title" : "TRUYEN NGAN TRANG THE HY-14"
+  }, {
+    "href" : "https://archive.org/download/truyen-ngan-trang-the-hy.sna/TRUYEN_NGAN_TRANG_THE_HY-15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2195,
+    "title" : "TRUYEN NGAN TRANG THE HY-15"
+  }, {
+    "href" : "https://archive.org/download/truyen-ngan-trang-the-hy.sna/TRUYEN_NGAN_TRANG_THE_HY-16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2280,
+    "title" : "TRUYEN NGAN TRANG THE HY-16"
+  }, {
+    "href" : "https://archive.org/download/truyen-ngan-trang-the-hy.sna/TRUYEN_NGAN_TRANG_THE_HY-17.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2326,
+    "title" : "TRUYEN NGAN TRANG THE HY-17"
+  }, {
+    "href" : "https://archive.org/download/truyen-ngan-trang-the-hy.sna/TRUYEN_NGAN_TRANG_THE_HY-18.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1833,
+    "title" : "TRUYEN NGAN TRANG THE HY-18"
+  }, {
+    "href" : "https://archive.org/download/truyen-ngan-trang-the-hy.sna/TRUYEN_NGAN_TRANG_THE_HY-19.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2051,
+    "title" : "TRUYEN NGAN TRANG THE HY-19"
+  }, {
+    "href" : "https://archive.org/download/truyen-ngan-trang-the-hy.sna/TRUYEN_NGAN_TRANG_THE_HY-20.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3142,
+    "title" : "TRUYEN NGAN TRANG THE HY-20"
+  }, {
+    "href" : "https://archive.org/download/truyen-ngan-trang-the-hy.sna/TRUYEN_NGAN_TRANG_THE_HY-21.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2191,
+    "title" : "TRUYEN NGAN TRANG THE HY-21"
+  }, {
+    "href" : "https://archive.org/download/truyen-ngan-trang-the-hy.sna/TRUYEN_NGAN_TRANG_THE_HY-22.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2932,
+    "title" : "TRUYEN NGAN TRANG THE HY-22"
+  }, {
+    "href" : "https://archive.org/download/truyen-ngan-trang-the-hy.sna/TRUYEN_NGAN_TRANG_THE_HY-23.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1937,
+    "title" : "TRUYEN NGAN TRANG THE HY-23"
+  }, {
+    "href" : "https://archive.org/download/truyen-ngan-trang-the-hy.sna/TRUYEN_NGAN_TRANG_THE_HY-24.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1780,
+    "title" : "TRUYEN NGAN TRANG THE HY-24"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/truyen-ngan-trang-the-hy.sna/TRUYEN_NGAN_TRANG_THE_HY-01.mp3",
+    "title" : "TRUYEN NGAN TRANG THE HY-01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-ngan-trang-the-hy.sna/TRUYEN_NGAN_TRANG_THE_HY-02.mp3",
+    "title" : "TRUYEN NGAN TRANG THE HY-02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-ngan-trang-the-hy.sna/TRUYEN_NGAN_TRANG_THE_HY-03.mp3",
+    "title" : "TRUYEN NGAN TRANG THE HY-03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-ngan-trang-the-hy.sna/TRUYEN_NGAN_TRANG_THE_HY-04.mp3",
+    "title" : "TRUYEN NGAN TRANG THE HY-04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-ngan-trang-the-hy.sna/TRUYEN_NGAN_TRANG_THE_HY-05.mp3",
+    "title" : "TRUYEN NGAN TRANG THE HY-05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-ngan-trang-the-hy.sna/TRUYEN_NGAN_TRANG_THE_HY-06.mp3",
+    "title" : "TRUYEN NGAN TRANG THE HY-06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-ngan-trang-the-hy.sna/TRUYEN_NGAN_TRANG_THE_HY-07.mp3",
+    "title" : "TRUYEN NGAN TRANG THE HY-07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-ngan-trang-the-hy.sna/TRUYEN_NGAN_TRANG_THE_HY-08.mp3",
+    "title" : "TRUYEN NGAN TRANG THE HY-08",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-ngan-trang-the-hy.sna/TRUYEN_NGAN_TRANG_THE_HY-09.mp3",
+    "title" : "TRUYEN NGAN TRANG THE HY-09",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-ngan-trang-the-hy.sna/TRUYEN_NGAN_TRANG_THE_HY-10.mp3",
+    "title" : "TRUYEN NGAN TRANG THE HY-10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-ngan-trang-the-hy.sna/TRUYEN_NGAN_TRANG_THE_HY-11.mp3",
+    "title" : "TRUYEN NGAN TRANG THE HY-11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-ngan-trang-the-hy.sna/TRUYEN_NGAN_TRANG_THE_HY-12.mp3",
+    "title" : "TRUYEN NGAN TRANG THE HY-12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-ngan-trang-the-hy.sna/TRUYEN_NGAN_TRANG_THE_HY-13.mp3",
+    "title" : "TRUYEN NGAN TRANG THE HY-13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-ngan-trang-the-hy.sna/TRUYEN_NGAN_TRANG_THE_HY-14.mp3",
+    "title" : "TRUYEN NGAN TRANG THE HY-14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-ngan-trang-the-hy.sna/TRUYEN_NGAN_TRANG_THE_HY-15.mp3",
+    "title" : "TRUYEN NGAN TRANG THE HY-15",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-ngan-trang-the-hy.sna/TRUYEN_NGAN_TRANG_THE_HY-16.mp3",
+    "title" : "TRUYEN NGAN TRANG THE HY-16",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-ngan-trang-the-hy.sna/TRUYEN_NGAN_TRANG_THE_HY-17.mp3",
+    "title" : "TRUYEN NGAN TRANG THE HY-17",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-ngan-trang-the-hy.sna/TRUYEN_NGAN_TRANG_THE_HY-18.mp3",
+    "title" : "TRUYEN NGAN TRANG THE HY-18",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-ngan-trang-the-hy.sna/TRUYEN_NGAN_TRANG_THE_HY-19.mp3",
+    "title" : "TRUYEN NGAN TRANG THE HY-19",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-ngan-trang-the-hy.sna/TRUYEN_NGAN_TRANG_THE_HY-20.mp3",
+    "title" : "TRUYEN NGAN TRANG THE HY-20",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-ngan-trang-the-hy.sna/TRUYEN_NGAN_TRANG_THE_HY-21.mp3",
+    "title" : "TRUYEN NGAN TRANG THE HY-21",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-ngan-trang-the-hy.sna/TRUYEN_NGAN_TRANG_THE_HY-22.mp3",
+    "title" : "TRUYEN NGAN TRANG THE HY-22",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-ngan-trang-the-hy.sna/TRUYEN_NGAN_TRANG_THE_HY-23.mp3",
+    "title" : "TRUYEN NGAN TRANG THE HY-23",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truyen-ngan-trang-the-hy.sna/TRUYEN_NGAN_TRANG_THE_HY-24.mp3",
+    "title" : "TRUYEN NGAN TRANG THE HY-24",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

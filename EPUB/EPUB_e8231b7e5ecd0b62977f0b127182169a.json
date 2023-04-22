@@ -1,0 +1,156 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/truong-thanh-sau-ngan-lan-tranh-dau_20031.html",
+    "title" : "Trưởng Thành Sau Ngàn Lần Tranh Đấu",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Rando Kim",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-22",
+    "duration" : 17909,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage6/main/EPUB/EPUB_e8231b7e5ecd0b62977f0b127182169a.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage6/main/IMAGE/IMAGE_e8231b7e5ecd0b62977f0b127182169a.jpeg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/truong-thanh-sau-ngan-lan-tranh-dau.sna/truong-thanh-sau-ngan-lan-tranh-dau-1.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1475,
+    "title" : "truong-thanh-sau-ngan-lan-tranh-dau-1"
+  }, {
+    "href" : "https://archive.org/download/truong-thanh-sau-ngan-lan-tranh-dau.sna/truong-thanh-sau-ngan-lan-tranh-dau-10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1388,
+    "title" : "truong-thanh-sau-ngan-lan-tranh-dau-10"
+  }, {
+    "href" : "https://archive.org/download/truong-thanh-sau-ngan-lan-tranh-dau.sna/truong-thanh-sau-ngan-lan-tranh-dau-11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1407,
+    "title" : "truong-thanh-sau-ngan-lan-tranh-dau-11"
+  }, {
+    "href" : "https://archive.org/download/truong-thanh-sau-ngan-lan-tranh-dau.sna/truong-thanh-sau-ngan-lan-tranh-dau-12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1856,
+    "title" : "truong-thanh-sau-ngan-lan-tranh-dau-12"
+  }, {
+    "href" : "https://archive.org/download/truong-thanh-sau-ngan-lan-tranh-dau.sna/truong-thanh-sau-ngan-lan-tranh-dau-13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1896,
+    "title" : "truong-thanh-sau-ngan-lan-tranh-dau-13"
+  }, {
+    "href" : "https://archive.org/download/truong-thanh-sau-ngan-lan-tranh-dau.sna/truong-thanh-sau-ngan-lan-tranh-dau-2.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1507,
+    "title" : "truong-thanh-sau-ngan-lan-tranh-dau-2"
+  }, {
+    "href" : "https://archive.org/download/truong-thanh-sau-ngan-lan-tranh-dau.sna/truong-thanh-sau-ngan-lan-tranh-dau-3.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1430,
+    "title" : "truong-thanh-sau-ngan-lan-tranh-dau-3"
+  }, {
+    "href" : "https://archive.org/download/truong-thanh-sau-ngan-lan-tranh-dau.sna/truong-thanh-sau-ngan-lan-tranh-dau-5.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1369,
+    "title" : "truong-thanh-sau-ngan-lan-tranh-dau-5"
+  }, {
+    "href" : "https://archive.org/download/truong-thanh-sau-ngan-lan-tranh-dau.sna/truong-thanh-sau-ngan-lan-tranh-dau-6.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1323,
+    "title" : "truong-thanh-sau-ngan-lan-tranh-dau-6"
+  }, {
+    "href" : "https://archive.org/download/truong-thanh-sau-ngan-lan-tranh-dau.sna/truong-thanh-sau-ngan-lan-tranh-dau-7.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1347,
+    "title" : "truong-thanh-sau-ngan-lan-tranh-dau-7"
+  }, {
+    "href" : "https://archive.org/download/truong-thanh-sau-ngan-lan-tranh-dau.sna/truong-thanh-sau-ngan-lan-tranh-dau-8.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1485,
+    "title" : "truong-thanh-sau-ngan-lan-tranh-dau-8"
+  }, {
+    "href" : "https://archive.org/download/truong-thanh-sau-ngan-lan-tranh-dau.sna/truong-thanh-sau-ngan-lan-tranh-dau-9.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1426,
+    "title" : "truong-thanh-sau-ngan-lan-tranh-dau-9"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/truong-thanh-sau-ngan-lan-tranh-dau.sna/truong-thanh-sau-ngan-lan-tranh-dau-1.mp3",
+    "title" : "truong-thanh-sau-ngan-lan-tranh-dau-1",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truong-thanh-sau-ngan-lan-tranh-dau.sna/truong-thanh-sau-ngan-lan-tranh-dau-10.mp3",
+    "title" : "truong-thanh-sau-ngan-lan-tranh-dau-10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truong-thanh-sau-ngan-lan-tranh-dau.sna/truong-thanh-sau-ngan-lan-tranh-dau-11.mp3",
+    "title" : "truong-thanh-sau-ngan-lan-tranh-dau-11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truong-thanh-sau-ngan-lan-tranh-dau.sna/truong-thanh-sau-ngan-lan-tranh-dau-12.mp3",
+    "title" : "truong-thanh-sau-ngan-lan-tranh-dau-12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truong-thanh-sau-ngan-lan-tranh-dau.sna/truong-thanh-sau-ngan-lan-tranh-dau-13.mp3",
+    "title" : "truong-thanh-sau-ngan-lan-tranh-dau-13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truong-thanh-sau-ngan-lan-tranh-dau.sna/truong-thanh-sau-ngan-lan-tranh-dau-2.mp3",
+    "title" : "truong-thanh-sau-ngan-lan-tranh-dau-2",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truong-thanh-sau-ngan-lan-tranh-dau.sna/truong-thanh-sau-ngan-lan-tranh-dau-3.mp3",
+    "title" : "truong-thanh-sau-ngan-lan-tranh-dau-3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truong-thanh-sau-ngan-lan-tranh-dau.sna/truong-thanh-sau-ngan-lan-tranh-dau-5.mp3",
+    "title" : "truong-thanh-sau-ngan-lan-tranh-dau-5",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truong-thanh-sau-ngan-lan-tranh-dau.sna/truong-thanh-sau-ngan-lan-tranh-dau-6.mp3",
+    "title" : "truong-thanh-sau-ngan-lan-tranh-dau-6",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truong-thanh-sau-ngan-lan-tranh-dau.sna/truong-thanh-sau-ngan-lan-tranh-dau-7.mp3",
+    "title" : "truong-thanh-sau-ngan-lan-tranh-dau-7",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truong-thanh-sau-ngan-lan-tranh-dau.sna/truong-thanh-sau-ngan-lan-tranh-dau-8.mp3",
+    "title" : "truong-thanh-sau-ngan-lan-tranh-dau-8",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/truong-thanh-sau-ngan-lan-tranh-dau.sna/truong-thanh-sau-ngan-lan-tranh-dau-9.mp3",
+    "title" : "truong-thanh-sau-ngan-lan-tranh-dau-9",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

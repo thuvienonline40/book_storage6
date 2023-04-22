@@ -1,0 +1,196 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/chat-ngoc_20065.html",
+    "title" : "Chất Ngọc",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Vũ Hạnh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-22",
+    "duration" : 26470,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage6/main/EPUB/EPUB_81db02eaca84748b90bef0557afe98f1.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage6/main/IMAGE/IMAGE_81db02eaca84748b90bef0557afe98f1.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/chat-ngoc.sna/CHAT_NGOC-01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 297,
+    "title" : "CHAT NGOC-01"
+  }, {
+    "href" : "https://archive.org/download/chat-ngoc.sna/CHAT_NGOC-02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2181,
+    "title" : "CHAT NGOC-02"
+  }, {
+    "href" : "https://archive.org/download/chat-ngoc.sna/CHAT_NGOC-03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2197,
+    "title" : "CHAT NGOC-03"
+  }, {
+    "href" : "https://archive.org/download/chat-ngoc.sna/CHAT_NGOC-04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1700,
+    "title" : "CHAT NGOC-04"
+  }, {
+    "href" : "https://archive.org/download/chat-ngoc.sna/CHAT_NGOC-05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 776,
+    "title" : "CHAT NGOC-05"
+  }, {
+    "href" : "https://archive.org/download/chat-ngoc.sna/CHAT_NGOC-06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2217,
+    "title" : "CHAT NGOC-06"
+  }, {
+    "href" : "https://archive.org/download/chat-ngoc.sna/CHAT_NGOC-07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2050,
+    "title" : "CHAT NGOC-07"
+  }, {
+    "href" : "https://archive.org/download/chat-ngoc.sna/CHAT_NGOC-08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1566,
+    "title" : "CHAT NGOC-08"
+  }, {
+    "href" : "https://archive.org/download/chat-ngoc.sna/CHAT_NGOC-09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1637,
+    "title" : "CHAT NGOC-09"
+  }, {
+    "href" : "https://archive.org/download/chat-ngoc.sna/CHAT_NGOC-10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1994,
+    "title" : "CHAT NGOC-10"
+  }, {
+    "href" : "https://archive.org/download/chat-ngoc.sna/CHAT_NGOC-11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1573,
+    "title" : "CHAT NGOC-11"
+  }, {
+    "href" : "https://archive.org/download/chat-ngoc.sna/CHAT_NGOC-12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1648,
+    "title" : "CHAT NGOC-12"
+  }, {
+    "href" : "https://archive.org/download/chat-ngoc.sna/CHAT_NGOC-13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1645,
+    "title" : "CHAT NGOC-13"
+  }, {
+    "href" : "https://archive.org/download/chat-ngoc.sna/CHAT_NGOC-14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1793,
+    "title" : "CHAT NGOC-14"
+  }, {
+    "href" : "https://archive.org/download/chat-ngoc.sna/CHAT_NGOC-15.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1672,
+    "title" : "CHAT NGOC-15"
+  }, {
+    "href" : "https://archive.org/download/chat-ngoc.sna/CHAT_NGOC-16.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1524,
+    "title" : "CHAT NGOC-16"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/chat-ngoc.sna/CHAT_NGOC-01.mp3",
+    "title" : "CHAT NGOC-01",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chat-ngoc.sna/CHAT_NGOC-02.mp3",
+    "title" : "CHAT NGOC-02",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chat-ngoc.sna/CHAT_NGOC-03.mp3",
+    "title" : "CHAT NGOC-03",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chat-ngoc.sna/CHAT_NGOC-04.mp3",
+    "title" : "CHAT NGOC-04",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chat-ngoc.sna/CHAT_NGOC-05.mp3",
+    "title" : "CHAT NGOC-05",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chat-ngoc.sna/CHAT_NGOC-06.mp3",
+    "title" : "CHAT NGOC-06",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chat-ngoc.sna/CHAT_NGOC-07.mp3",
+    "title" : "CHAT NGOC-07",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chat-ngoc.sna/CHAT_NGOC-08.mp3",
+    "title" : "CHAT NGOC-08",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chat-ngoc.sna/CHAT_NGOC-09.mp3",
+    "title" : "CHAT NGOC-09",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chat-ngoc.sna/CHAT_NGOC-10.mp3",
+    "title" : "CHAT NGOC-10",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chat-ngoc.sna/CHAT_NGOC-11.mp3",
+    "title" : "CHAT NGOC-11",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chat-ngoc.sna/CHAT_NGOC-12.mp3",
+    "title" : "CHAT NGOC-12",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chat-ngoc.sna/CHAT_NGOC-13.mp3",
+    "title" : "CHAT NGOC-13",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chat-ngoc.sna/CHAT_NGOC-14.mp3",
+    "title" : "CHAT NGOC-14",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chat-ngoc.sna/CHAT_NGOC-15.mp3",
+    "title" : "CHAT NGOC-15",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chat-ngoc.sna/CHAT_NGOC-16.mp3",
+    "title" : "CHAT NGOC-16",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,146 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/vuot-qua-chuong-ngai_20075.html",
+    "title" : "Vượt Qua Chướng Ngại",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Pa Auk Sayadaw",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-22",
+    "duration" : 14412,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage6/main/EPUB/EPUB_5ba8f6fd4d8ca00721ac72ce0ca7c7ed.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage6/main/IMAGE/IMAGE_5ba8f6fd4d8ca00721ac72ce0ca7c7ed.jpg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/vuot-qua-07/vuot-qua-01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1329,
+    "title" : "01_Nam trien cai_Tham duc A"
+  }, {
+    "href" : "https://archive.org/download/vuot-qua-07/vuot-qua-02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1097,
+    "title" : "02_Tham duc B"
+  }, {
+    "href" : "https://archive.org/download/vuot-qua-07/vuot-qua-03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1358,
+    "title" : "03_San han A_KOanh"
+  }, {
+    "href" : "https://archive.org/download/vuot-qua-07/vuot-qua-04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1363,
+    "title" : "04_San han B_KOanh"
+  }, {
+    "href" : "https://archive.org/download/vuot-qua-07/vuot-qua-05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1531,
+    "title" : "05_Hon tram thuy mien_Trao cu hoi han_TAnh"
+  }, {
+    "href" : "https://archive.org/download/vuot-qua-07/vuot-qua-06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1157,
+    "title" : "06_Hoai nghi_TAnh"
+  }, {
+    "href" : "https://archive.org/download/vuot-qua-07/vuot-qua-07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1172,
+    "title" : "07_Su chu thich tu chu giai_KNgan"
+  }, {
+    "href" : "https://archive.org/download/vuot-qua-07/vuot-qua-08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1209,
+    "title" : "08_Hoi va dap A_TAnh-KOanh"
+  }, {
+    "href" : "https://archive.org/download/vuot-qua-07/vuot-qua-09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1099,
+    "title" : "09_Hoi va dap B_TAnh-KOanh"
+  }, {
+    "href" : "https://archive.org/download/vuot-qua-07/vuot-qua-10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1524,
+    "title" : "10_Hoi va dap C_HHo-KHanh"
+  }, {
+    "href" : "https://archive.org/download/vuot-qua-07/vuot-qua-11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1573,
+    "title" : "11_Hoi va dap D_HHo-KHanh"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/vuot-qua-07/vuot-qua-01.mp3",
+    "title" : "01_Nam trien cai_Tham duc A",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vuot-qua-07/vuot-qua-02.mp3",
+    "title" : "02_Tham duc B",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vuot-qua-07/vuot-qua-03.mp3",
+    "title" : "03_San han A_KOanh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vuot-qua-07/vuot-qua-04.mp3",
+    "title" : "04_San han B_KOanh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vuot-qua-07/vuot-qua-05.mp3",
+    "title" : "05_Hon tram thuy mien_Trao cu hoi han_TAnh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vuot-qua-07/vuot-qua-06.mp3",
+    "title" : "06_Hoai nghi_TAnh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vuot-qua-07/vuot-qua-07.mp3",
+    "title" : "07_Su chu thich tu chu giai_KNgan",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vuot-qua-07/vuot-qua-08.mp3",
+    "title" : "08_Hoi va dap A_TAnh-KOanh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vuot-qua-07/vuot-qua-09.mp3",
+    "title" : "09_Hoi va dap B_TAnh-KOanh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vuot-qua-07/vuot-qua-10.mp3",
+    "title" : "10_Hoi va dap C_HHo-KHanh",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/vuot-qua-07/vuot-qua-11.mp3",
+    "title" : "11_Hoi va dap D_HHo-KHanh",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

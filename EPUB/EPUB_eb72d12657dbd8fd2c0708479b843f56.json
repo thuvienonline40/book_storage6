@@ -1,0 +1,176 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/chuyen-cua-thien_20017.html",
+    "title" : "Chuyện Cửa Thiền",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Minh Đức Triều Tâm Ảnh",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-22",
+    "duration" : 20054,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage6/main/EPUB/EPUB_eb72d12657dbd8fd2c0708479b843f56.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage6/main/IMAGE/IMAGE_eb72d12657dbd8fd2c0708479b843f56.jpeg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/chuyen-cua-08/chuyen-cua-01.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1577,
+    "title" : "01_Ten an trom_KHanh_dau-12.mp3"
+  }, {
+    "href" : "https://archive.org/download/chuyen-cua-08/chuyen-cua-02.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1553,
+    "title" : "02_Gian bi do_KHanh_HHo_12-23"
+  }, {
+    "href" : "https://archive.org/download/chuyen-cua-08/chuyen-cua-03.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 963,
+    "title" : "03_Cung tu trai du du_HHo_23-30"
+  }, {
+    "href" : "https://archive.org/download/chuyen-cua-08/chuyen-cua-04.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1354,
+    "title" : "04_Tren duong du hoa A_KHanh_30-38"
+  }, {
+    "href" : "https://archive.org/download/chuyen-cua-08/chuyen-cua-05.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1394,
+    "title" : "05_Tren duong du hoa B_KHanh_39-47"
+  }, {
+    "href" : "https://archive.org/download/chuyen-cua-08/chuyen-cua-06.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1308,
+    "title" : "06_Tren duong du hoa C_KHanh_47-55"
+  }, {
+    "href" : "https://archive.org/download/chuyen-cua-08/chuyen-cua-07.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 854,
+    "title" : "07_Ga xe lua va nhung chuyen tau_HHo_56-60"
+  }, {
+    "href" : "https://archive.org/download/chuyen-cua-08/chuyen-cua-08.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2027,
+    "title" : "08_Don tet_HHo_60-74"
+  }, {
+    "href" : "https://archive.org/download/chuyen-cua-08/chuyen-cua-09.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1987,
+    "title" : "09_Khong dong_KHanh_74-86"
+  }, {
+    "href" : "https://archive.org/download/chuyen-cua-08/chuyen-cua-10.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1175,
+    "title" : "10_Chuyen ran nhai_KHanh_86-93"
+  }, {
+    "href" : "https://archive.org/download/chuyen-cua-08/chuyen-cua-11.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 966,
+    "title" : "11_Phap mon dap chan nam ngu_HHo_94-99"
+  }, {
+    "href" : "https://archive.org/download/chuyen-cua-08/chuyen-cua-12.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1207,
+    "title" : "12_Chuyen phai trai_HHo_100-107"
+  }, {
+    "href" : "https://archive.org/download/chuyen-cua-08/chuyen-cua-13.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1937,
+    "title" : "13_Lo Son_KHanh_107-123"
+  }, {
+    "href" : "https://archive.org/download/chuyen-cua-08/chuyen-cua-14.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1752,
+    "title" : "14_Trang khong lan_HHo_124-het"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/chuyen-cua-08/chuyen-cua-01.mp3",
+    "title" : "01_Ten an trom_KHanh_dau-12.mp3",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chuyen-cua-08/chuyen-cua-02.mp3",
+    "title" : "02_Gian bi do_KHanh_HHo_12-23",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chuyen-cua-08/chuyen-cua-03.mp3",
+    "title" : "03_Cung tu trai du du_HHo_23-30",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chuyen-cua-08/chuyen-cua-04.mp3",
+    "title" : "04_Tren duong du hoa A_KHanh_30-38",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chuyen-cua-08/chuyen-cua-05.mp3",
+    "title" : "05_Tren duong du hoa B_KHanh_39-47",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chuyen-cua-08/chuyen-cua-06.mp3",
+    "title" : "06_Tren duong du hoa C_KHanh_47-55",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chuyen-cua-08/chuyen-cua-07.mp3",
+    "title" : "07_Ga xe lua va nhung chuyen tau_HHo_56-60",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chuyen-cua-08/chuyen-cua-08.mp3",
+    "title" : "08_Don tet_HHo_60-74",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chuyen-cua-08/chuyen-cua-09.mp3",
+    "title" : "09_Khong dong_KHanh_74-86",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chuyen-cua-08/chuyen-cua-10.mp3",
+    "title" : "10_Chuyen ran nhai_KHanh_86-93",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chuyen-cua-08/chuyen-cua-11.mp3",
+    "title" : "11_Phap mon dap chan nam ngu_HHo_94-99",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chuyen-cua-08/chuyen-cua-12.mp3",
+    "title" : "12_Chuyen phai trai_HHo_100-107",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chuyen-cua-08/chuyen-cua-13.mp3",
+    "title" : "13_Lo Son_KHanh_107-123",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/chuyen-cua-08/chuyen-cua-14.mp3",
+    "title" : "14_Trang khong lan_HHo_124-het",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

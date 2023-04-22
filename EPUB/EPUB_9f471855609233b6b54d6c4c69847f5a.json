@@ -1,0 +1,126 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/thuat-thuan-tam-y_20082.html",
+    "title" : "Thuật Thuận Tâm Ý",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Nicholas Epley",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-22",
+    "duration" : 24163,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage6/main/EPUB/EPUB_9f471855609233b6b54d6c4c69847f5a.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage6/main/IMAGE/IMAGE_9f471855609233b6b54d6c4c69847f5a.jpeg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/thuat-thuan-tam-y.sna/01.GioiThieu_ThuatThuanTamY.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1331,
+    "title" : "01.GioiThieu ThuatThuanTamY"
+  }, {
+    "href" : "https://archive.org/download/thuat-thuan-tam-y.sna/02.P01A_C01_ThuatThuanTamY.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1489,
+    "title" : "02.P01A C01 ThuatThuanTamY"
+  }, {
+    "href" : "https://archive.org/download/thuat-thuan-tam-y.sna/03.P01B_C02_DieuCoTheVaKhongTheBietVeTamYBanThan_ThuatThuanTamY.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2497,
+    "title" : "03.P01B C02 DieuCoTheVaKhongTheBietVeTamYBanThan ThuatThuanTamY"
+  }, {
+    "href" : "https://archive.org/download/thuat-thuan-tam-y.sna/04.P02A_C03_NoCoNaoKhong_ThuatThuanTamY.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2804,
+    "title" : "04.P02A C03 NoCoNaoKhong ThuatThuanTamY"
+  }, {
+    "href" : "https://archive.org/download/thuat-thuan-tam-y.sna/05.P02B_C04_NoCoNaoKhong_ThuatThuanTamY.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2996,
+    "title" : "05.P02B C04 NoCoNaoKhong ThuatThuanTamY"
+  }, {
+    "href" : "https://archive.org/download/thuat-thuan-tam-y.sna/06.P03A_C05_LoLangDeVuotQuaBanThan_ThuatThuanTamY.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3663,
+    "title" : "06.P03A C05 LoLangDeVuotQuaBanThan ThuatThuanTamY"
+  }, {
+    "href" : "https://archive.org/download/thuat-thuan-tam-y.sna/07.P03B_C06_NhungThoiQuenVaSuLamDungKhuonMau_ThuatThuanTamY.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 3175,
+    "title" : "07.P03B C06 NhungThoiQuenVaSuLamDungKhuonMau ThuatThuanTamY"
+  }, {
+    "href" : "https://archive.org/download/thuat-thuan-tam-y.sna/08.P03C_C07_NhungThoiQuenVaSuLamDungKhuonMau_ThuatThuanTamY.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2003,
+    "title" : "08.P03C C07 NhungThoiQuenVaSuLamDungKhuonMau ThuatThuanTamY"
+  }, {
+    "href" : "https://archive.org/download/thuat-thuan-tam-y.sna/09.P04_Het_C08_QuaCachNhinCuaNguoiKhac_ThuatThuanTamY.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 4205,
+    "title" : "09.P04 Het C08 QuaCachNhinCuaNguoiKhac ThuatThuanTamY"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/thuat-thuan-tam-y.sna/01.GioiThieu_ThuatThuanTamY.mp3",
+    "title" : "01.GioiThieu ThuatThuanTamY",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuat-thuan-tam-y.sna/02.P01A_C01_ThuatThuanTamY.mp3",
+    "title" : "02.P01A C01 ThuatThuanTamY",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuat-thuan-tam-y.sna/03.P01B_C02_DieuCoTheVaKhongTheBietVeTamYBanThan_ThuatThuanTamY.mp3",
+    "title" : "03.P01B C02 DieuCoTheVaKhongTheBietVeTamYBanThan ThuatThuanTamY",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuat-thuan-tam-y.sna/04.P02A_C03_NoCoNaoKhong_ThuatThuanTamY.mp3",
+    "title" : "04.P02A C03 NoCoNaoKhong ThuatThuanTamY",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuat-thuan-tam-y.sna/05.P02B_C04_NoCoNaoKhong_ThuatThuanTamY.mp3",
+    "title" : "05.P02B C04 NoCoNaoKhong ThuatThuanTamY",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuat-thuan-tam-y.sna/06.P03A_C05_LoLangDeVuotQuaBanThan_ThuatThuanTamY.mp3",
+    "title" : "06.P03A C05 LoLangDeVuotQuaBanThan ThuatThuanTamY",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuat-thuan-tam-y.sna/07.P03B_C06_NhungThoiQuenVaSuLamDungKhuonMau_ThuatThuanTamY.mp3",
+    "title" : "07.P03B C06 NhungThoiQuenVaSuLamDungKhuonMau ThuatThuanTamY",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuat-thuan-tam-y.sna/08.P03C_C07_NhungThoiQuenVaSuLamDungKhuonMau_ThuatThuanTamY.mp3",
+    "title" : "08.P03C C07 NhungThoiQuenVaSuLamDungKhuonMau ThuatThuanTamY",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/thuat-thuan-tam-y.sna/09.P04_Het_C08_QuaCachNhinCuaNguoiKhac_ThuatThuanTamY.mp3",
+    "title" : "09.P04 Het C08 QuaCachNhinCuaNguoiKhac ThuatThuanTamY",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,216 @@
+{
+  "metadata" : {
+    "identifier" : "https://www.dtv-ebook.com/100-cau-chuyen-ve-su-giau-co_19982.html",
+    "title" : "100 Câu Chuyện Về Sự Giàu Có",
+    "subtitle" : "N/A",
+    "author" : {
+      "name" : "Quách Thành",
+      "sortAs" : ""
+    },
+    "narrator" : "N/A",
+    "language" : "vi",
+    "description" : "<p>N/A</p>",
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-22",
+    "duration" : 41638,
+    "abridged" : false,
+    "@type" : "http://schema.org/Audiobook",
+    "schema:license" : "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage6/main/EPUB/EPUB_363dfa499f189e4133ed4c910006e8c0.json",
+    "type" : "application/audiobook+json"
+  }, {
+    "rel" : "cover",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage6/main/IMAGE/IMAGE_363dfa499f189e4133ed4c910006e8c0.jpeg",
+    "type" : "image/jpeg",
+    "height" : 300,
+    "width" : 300
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://archive.org/download/100-cau-chuyen-ve-su-giau-co.sna/01.%20100CauChuyenVeSuGiauCo_HC.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2555,
+    "title" : "01. 100CauChuyenVeSuGiauCo HC"
+  }, {
+    "href" : "https://archive.org/download/100-cau-chuyen-ve-su-giau-co.sna/01._100CauChuyenVeSuGiauCo_HC.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2555,
+    "title" : "01. 100CauChuyenVeSuGiauCo HC"
+  }, {
+    "href" : "https://archive.org/download/100-cau-chuyen-ve-su-giau-co.sna/02.%20100CauChuyenVeSuGiauCo.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2036,
+    "title" : "02. 100CauChuyenVeSuGiauCo"
+  }, {
+    "href" : "https://archive.org/download/100-cau-chuyen-ve-su-giau-co.sna/02._100CauChuyenVeSuGiauCo.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2036,
+    "title" : "02. 100CauChuyenVeSuGiauCo"
+  }, {
+    "href" : "https://archive.org/download/100-cau-chuyen-ve-su-giau-co.sna/03.%20100CauChuyenVeSuGiauCo.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2054,
+    "title" : "03. 100CauChuyenVeSuGiauCo"
+  }, {
+    "href" : "https://archive.org/download/100-cau-chuyen-ve-su-giau-co.sna/03._100CauChuyenVeSuGiauCo.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2054,
+    "title" : "03. 100CauChuyenVeSuGiauCo"
+  }, {
+    "href" : "https://archive.org/download/100-cau-chuyen-ve-su-giau-co.sna/04.%20100CauChuyenVeSuGiauCo.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1957,
+    "title" : "04. 100CauChuyenVeSuGiauCo"
+  }, {
+    "href" : "https://archive.org/download/100-cau-chuyen-ve-su-giau-co.sna/04._100CauChuyenVeSuGiauCo.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 1957,
+    "title" : "04. 100CauChuyenVeSuGiauCo"
+  }, {
+    "href" : "https://archive.org/download/100-cau-chuyen-ve-su-giau-co.sna/05.%20100CauChuyenVeSuGiauCo.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2139,
+    "title" : "05. 100CauChuyenVeSuGiauCo"
+  }, {
+    "href" : "https://archive.org/download/100-cau-chuyen-ve-su-giau-co.sna/05._100CauChuyenVeSuGiauCo.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2139,
+    "title" : "05. 100CauChuyenVeSuGiauCo"
+  }, {
+    "href" : "https://archive.org/download/100-cau-chuyen-ve-su-giau-co.sna/06.%20100CauChuyenVeSuGiauCo.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2132,
+    "title" : "06. 100CauChuyenVeSuGiauCo"
+  }, {
+    "href" : "https://archive.org/download/100-cau-chuyen-ve-su-giau-co.sna/06._100CauChuyenVeSuGiauCo.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2132,
+    "title" : "06. 100CauChuyenVeSuGiauCo"
+  }, {
+    "href" : "https://archive.org/download/100-cau-chuyen-ve-su-giau-co.sna/07.%20100CauChuyenVeSuGiauCo.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2540,
+    "title" : "07. 100CauChuyenVeSuGiauCo"
+  }, {
+    "href" : "https://archive.org/download/100-cau-chuyen-ve-su-giau-co.sna/07._100CauChuyenVeSuGiauCo.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2540,
+    "title" : "07. 100CauChuyenVeSuGiauCo"
+  }, {
+    "href" : "https://archive.org/download/100-cau-chuyen-ve-su-giau-co.sna/08.%20100CauChuyenVeSuGiauCo.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2728,
+    "title" : "08. 100CauChuyenVeSuGiauCo"
+  }, {
+    "href" : "https://archive.org/download/100-cau-chuyen-ve-su-giau-co.sna/08._100CauChuyenVeSuGiauCo.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2728,
+    "title" : "08. 100CauChuyenVeSuGiauCo"
+  }, {
+    "href" : "https://archive.org/download/100-cau-chuyen-ve-su-giau-co.sna/09.%20100CauChuyenVeSuGiauCo_HET.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2678,
+    "title" : "09. 100CauChuyenVeSuGiauCo HET"
+  }, {
+    "href" : "https://archive.org/download/100-cau-chuyen-ve-su-giau-co.sna/09._100CauChuyenVeSuGiauCo_HET.mp3",
+    "type" : "audio/mpeg",
+    "bitrate" : 128,
+    "duration" : 2678,
+    "title" : "09. 100CauChuyenVeSuGiauCo HET"
+  } ],
+  "toc" : [ {
+    "href" : "https://archive.org/download/100-cau-chuyen-ve-su-giau-co.sna/01.%20100CauChuyenVeSuGiauCo_HC.mp3",
+    "title" : "01. 100CauChuyenVeSuGiauCo HC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/100-cau-chuyen-ve-su-giau-co.sna/01._100CauChuyenVeSuGiauCo_HC.mp3",
+    "title" : "01. 100CauChuyenVeSuGiauCo HC",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/100-cau-chuyen-ve-su-giau-co.sna/02.%20100CauChuyenVeSuGiauCo.mp3",
+    "title" : "02. 100CauChuyenVeSuGiauCo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/100-cau-chuyen-ve-su-giau-co.sna/02._100CauChuyenVeSuGiauCo.mp3",
+    "title" : "02. 100CauChuyenVeSuGiauCo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/100-cau-chuyen-ve-su-giau-co.sna/03.%20100CauChuyenVeSuGiauCo.mp3",
+    "title" : "03. 100CauChuyenVeSuGiauCo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/100-cau-chuyen-ve-su-giau-co.sna/03._100CauChuyenVeSuGiauCo.mp3",
+    "title" : "03. 100CauChuyenVeSuGiauCo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/100-cau-chuyen-ve-su-giau-co.sna/04.%20100CauChuyenVeSuGiauCo.mp3",
+    "title" : "04. 100CauChuyenVeSuGiauCo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/100-cau-chuyen-ve-su-giau-co.sna/04._100CauChuyenVeSuGiauCo.mp3",
+    "title" : "04. 100CauChuyenVeSuGiauCo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/100-cau-chuyen-ve-su-giau-co.sna/05.%20100CauChuyenVeSuGiauCo.mp3",
+    "title" : "05. 100CauChuyenVeSuGiauCo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/100-cau-chuyen-ve-su-giau-co.sna/05._100CauChuyenVeSuGiauCo.mp3",
+    "title" : "05. 100CauChuyenVeSuGiauCo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/100-cau-chuyen-ve-su-giau-co.sna/06.%20100CauChuyenVeSuGiauCo.mp3",
+    "title" : "06. 100CauChuyenVeSuGiauCo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/100-cau-chuyen-ve-su-giau-co.sna/06._100CauChuyenVeSuGiauCo.mp3",
+    "title" : "06. 100CauChuyenVeSuGiauCo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/100-cau-chuyen-ve-su-giau-co.sna/07.%20100CauChuyenVeSuGiauCo.mp3",
+    "title" : "07. 100CauChuyenVeSuGiauCo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/100-cau-chuyen-ve-su-giau-co.sna/07._100CauChuyenVeSuGiauCo.mp3",
+    "title" : "07. 100CauChuyenVeSuGiauCo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/100-cau-chuyen-ve-su-giau-co.sna/08.%20100CauChuyenVeSuGiauCo.mp3",
+    "title" : "08. 100CauChuyenVeSuGiauCo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/100-cau-chuyen-ve-su-giau-co.sna/08._100CauChuyenVeSuGiauCo.mp3",
+    "title" : "08. 100CauChuyenVeSuGiauCo",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/100-cau-chuyen-ve-su-giau-co.sna/09.%20100CauChuyenVeSuGiauCo_HET.mp3",
+    "title" : "09. 100CauChuyenVeSuGiauCo HET",
+    "children" : [ ]
+  }, {
+    "href" : "https://archive.org/download/100-cau-chuyen-ve-su-giau-co.sna/09._100CauChuyenVeSuGiauCo_HET.mp3",
+    "title" : "09. 100CauChuyenVeSuGiauCo HET",
+    "children" : [ ]
+  } ],
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
