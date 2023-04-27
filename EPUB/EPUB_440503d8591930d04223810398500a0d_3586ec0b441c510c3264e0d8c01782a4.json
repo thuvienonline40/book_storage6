@@ -1,0 +1,365 @@
+{
+  "metadata" : {
+    "identifier" : "https://truyenvnhot.tv/bad-company",
+    "title" : "Bad Company",
+    "subtitle" : null,
+    "author" : null,
+    "narrator" : null,
+    "language" : "vi",
+    "description" : null,
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : "https://readium.org/webpub-manifest/profiles/divina",
+    "numberOfPages" : 10,
+    "readingProgression" : "ttb",
+    "belongsTo" : null,
+    "presentation" : {
+      "fit" : "width",
+      "overflow" : "scrolled",
+      "continuous" : true
+    },
+    "@type" : null,
+    "schema:license" : null
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage_collection/main/comic_manifest.json",
+    "type" : "application/divina+json"
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://2.bp.blogspot.com/_ZFXBLboy128/TdBJ4QZW0jI/AAAAAAAAAgs/8JdSqkb7jY4/s1200/Chapter_008-01.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://2.bp.blogspot.com/_ZFXBLboy128/TdBJ46M8mbI/AAAAAAAAAg4/WVkaPYHPWVY/s1200/Chapter_008-02.png?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://2.bp.blogspot.com/_ZFXBLboy128/TdBJ5ZbdanI/AAAAAAAAAhE/LcIvCPZ7Ed8/s1200/Chapter_008-03.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://2.bp.blogspot.com/_ZFXBLboy128/TdBJ6O2dgUI/AAAAAAAAAhQ/KVKmQfMeA0U/s1200/Chapter_008-04.png?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://2.bp.blogspot.com/_ZFXBLboy128/TdBJ6oSoHwI/AAAAAAAAAhc/xHigY_VRjEY/s1200/Chapter_008-05.png?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://2.bp.blogspot.com/_ZFXBLboy128/TdBJ7QK3zUI/AAAAAAAAAhk/PJ8uEDoVfgM/s1200/Chapter_008-06.png?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://2.bp.blogspot.com/_ZFXBLboy128/TdBJ8EWCneI/AAAAAAAAAh0/lq_EB440FcM/s1200/Chapter_008-07.png?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://2.bp.blogspot.com/_ZFXBLboy128/TdBJ8hVU9BI/AAAAAAAAAiA/O11SGFc8I1A/s1200/Chapter_008-08.png?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://2.bp.blogspot.com/_ZFXBLboy128/TdBJ9USqCxI/AAAAAAAAAiI/yOJk8bkfpuU/s1200/Chapter_008-09.png?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://2.bp.blogspot.com/_ZFXBLboy128/TdBJ93_tAKI/AAAAAAAAAiQ/Z65SfS3X5PY/s1200/Chapter_008-10.png?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://2.bp.blogspot.com/_ZFXBLboy128/TdBJ-tLp3xI/AAAAAAAAAic/8AbMdoIx8PQ/s1200/Chapter_008-11.png?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://2.bp.blogspot.com/_ZFXBLboy128/TdBJ_QaBczI/AAAAAAAAAis/9aam6Fb-Cvg/s1200/Chapter_008-12.png?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://2.bp.blogspot.com/_ZFXBLboy128/TdBKAGcN_tI/AAAAAAAAAi4/AbMCTTtjRRA/s1200/Chapter_008-13.png?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://2.bp.blogspot.com/_ZFXBLboy128/TdBKBiLPqHI/AAAAAAAAAi8/xxTncEnYQgs/s1200/Chapter_008-14.png?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://2.bp.blogspot.com/_ZFXBLboy128/TdBKColj7BI/AAAAAAAAAjI/xSNt9rTThIM/s1200/Chapter_008-15.png?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://2.bp.blogspot.com/_ZFXBLboy128/TdBKDaM4f5I/AAAAAAAAAjc/Rc-yMFQsQls/s1200/Chapter_008-16.png?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://2.bp.blogspot.com/_ZFXBLboy128/TdBKEDtvQvI/AAAAAAAAAj0/Vw3MIa7aIig/s1200/Chapter_008-17.png?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://2.bp.blogspot.com/_ZFXBLboy128/TdBKFLhSPPI/AAAAAAAAAkE/xxjq_x24_a0/s1200/Chapter_008-18.png?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://2.bp.blogspot.com/_ZFXBLboy128/TdBKFsN6v9I/AAAAAAAAAkQ/ESpj92ol03w/s1200/Chapter_008-19.png?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://2.bp.blogspot.com/_ZFXBLboy128/TdBKGE9bsCI/AAAAAAAAAkY/aV5zJZL1zkM/s1200/Chapter_008-20.png?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://2.bp.blogspot.com/_ZFXBLboy128/TdBKG58WmcI/AAAAAAAAAkg/AKnEhy_ub3s/s1200/Chapter_008-21.png?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://2.bp.blogspot.com/_ZFXBLboy128/TdBKHjoF1NI/AAAAAAAAAko/2S3XO5HEPgw/s1200/Chapter_008-22.png?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://2.bp.blogspot.com/_ZFXBLboy128/TdBKICJvoZI/AAAAAAAAAk0/ZKN0KswQ2fM/s1200/Chapter_008-23.png?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://2.bp.blogspot.com/_ZFXBLboy128/TdBJ4QZW0jI/AAAAAAAAAgs/8JdSqkb7jY4/s1200/Chapter_008-01.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://2.bp.blogspot.com/_ZFXBLboy128/TdBJ46M8mbI/AAAAAAAAAg4/WVkaPYHPWVY/s1200/Chapter_008-02.png?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://2.bp.blogspot.com/_ZFXBLboy128/TdBJ5ZbdanI/AAAAAAAAAhE/LcIvCPZ7Ed8/s1200/Chapter_008-03.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://2.bp.blogspot.com/_ZFXBLboy128/TdBJ6O2dgUI/AAAAAAAAAhQ/KVKmQfMeA0U/s1200/Chapter_008-04.png?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://2.bp.blogspot.com/_ZFXBLboy128/TdBJ6oSoHwI/AAAAAAAAAhc/xHigY_VRjEY/s1200/Chapter_008-05.png?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://2.bp.blogspot.com/_ZFXBLboy128/TdBJ7QK3zUI/AAAAAAAAAhk/PJ8uEDoVfgM/s1200/Chapter_008-06.png?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://2.bp.blogspot.com/_ZFXBLboy128/TdBJ8EWCneI/AAAAAAAAAh0/lq_EB440FcM/s1200/Chapter_008-07.png?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://2.bp.blogspot.com/_ZFXBLboy128/TdBJ8hVU9BI/AAAAAAAAAiA/O11SGFc8I1A/s1200/Chapter_008-08.png?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://2.bp.blogspot.com/_ZFXBLboy128/TdBJ9USqCxI/AAAAAAAAAiI/yOJk8bkfpuU/s1200/Chapter_008-09.png?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://2.bp.blogspot.com/_ZFXBLboy128/TdBJ93_tAKI/AAAAAAAAAiQ/Z65SfS3X5PY/s1200/Chapter_008-10.png?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://2.bp.blogspot.com/_ZFXBLboy128/TdBJ-tLp3xI/AAAAAAAAAic/8AbMdoIx8PQ/s1200/Chapter_008-11.png?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://2.bp.blogspot.com/_ZFXBLboy128/TdBJ_QaBczI/AAAAAAAAAis/9aam6Fb-Cvg/s1200/Chapter_008-12.png?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://2.bp.blogspot.com/_ZFXBLboy128/TdBKAGcN_tI/AAAAAAAAAi4/AbMCTTtjRRA/s1200/Chapter_008-13.png?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://2.bp.blogspot.com/_ZFXBLboy128/TdBKBiLPqHI/AAAAAAAAAi8/xxTncEnYQgs/s1200/Chapter_008-14.png?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://2.bp.blogspot.com/_ZFXBLboy128/TdBKColj7BI/AAAAAAAAAjI/xSNt9rTThIM/s1200/Chapter_008-15.png?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://2.bp.blogspot.com/_ZFXBLboy128/TdBKDaM4f5I/AAAAAAAAAjc/Rc-yMFQsQls/s1200/Chapter_008-16.png?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://2.bp.blogspot.com/_ZFXBLboy128/TdBKEDtvQvI/AAAAAAAAAj0/Vw3MIa7aIig/s1200/Chapter_008-17.png?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://2.bp.blogspot.com/_ZFXBLboy128/TdBKFLhSPPI/AAAAAAAAAkE/xxjq_x24_a0/s1200/Chapter_008-18.png?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://2.bp.blogspot.com/_ZFXBLboy128/TdBKFsN6v9I/AAAAAAAAAkQ/ESpj92ol03w/s1200/Chapter_008-19.png?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://2.bp.blogspot.com/_ZFXBLboy128/TdBKGE9bsCI/AAAAAAAAAkY/aV5zJZL1zkM/s1200/Chapter_008-20.png?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://2.bp.blogspot.com/_ZFXBLboy128/TdBKG58WmcI/AAAAAAAAAkg/AKnEhy_ub3s/s1200/Chapter_008-21.png?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://2.bp.blogspot.com/_ZFXBLboy128/TdBKHjoF1NI/AAAAAAAAAko/2S3XO5HEPgw/s1200/Chapter_008-22.png?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://2.bp.blogspot.com/_ZFXBLboy128/TdBKICJvoZI/AAAAAAAAAk0/ZKN0KswQ2fM/s1200/Chapter_008-23.png?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://i2.wp.com/truyenvnhot.net/wp-content/uploads/2022/12/truyenvn-gg-banner.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  } ],
+  "toc" : null,
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

@@ -1,0 +1,253 @@
+{
+  "metadata" : {
+    "identifier" : "https://truyenvnhot.tv/phuong-the-ngoc",
+    "title" : "Phương Thế Ngọc",
+    "subtitle" : null,
+    "author" : null,
+    "narrator" : null,
+    "language" : "vi",
+    "description" : null,
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : "https://readium.org/webpub-manifest/profiles/divina",
+    "numberOfPages" : 6,
+    "readingProgression" : "ttb",
+    "belongsTo" : null,
+    "presentation" : {
+      "fit" : "width",
+      "overflow" : "scrolled",
+      "continuous" : true
+    },
+    "@type" : null,
+    "schema:license" : null
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage_collection/main/comic_manifest.json",
+    "type" : "application/divina+json"
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://1.bp.blogspot.com/_D-ALYrQdq9o/Tcu0jxjQqKI/AAAAAAAABQE/EZyglZYdxHQ/Phuong_The_Ngoc_Chap_05-01.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_D-ALYrQdq9o/Tcu0kziQDCI/AAAAAAAABQQ/bgH6Tk8-GGk/Phuong_The_Ngoc_Chap_05-02.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_D-ALYrQdq9o/Tcu0lrPZZYI/AAAAAAAABQc/_lIVaG-hO1A/Phuong_The_Ngoc_Chap_05-03.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_D-ALYrQdq9o/Tcu0mc5XvbI/AAAAAAAABQk/6c-jSxREa14/Phuong_The_Ngoc_Chap_05-04.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_D-ALYrQdq9o/Tcu0nU_SSzI/AAAAAAAABQs/m3wvlqgs8CY/Phuong_The_Ngoc_Chap_05-05.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_D-ALYrQdq9o/Tcu0oI8QTYI/AAAAAAAABQ0/YlGhQzN4nYA/Phuong_The_Ngoc_Chap_05-06.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_D-ALYrQdq9o/Tcu0pZEtIBI/AAAAAAAABQ8/MEarRjLViy0/Phuong_The_Ngoc_Chap_05-07.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_D-ALYrQdq9o/Tcu0qEGyb-I/AAAAAAAABRI/ajjZypJckCk/Phuong_The_Ngoc_Chap_05-08.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_D-ALYrQdq9o/Tcu0q0xGqjI/AAAAAAAABRY/w3IK1BYAvj8/Phuong_The_Ngoc_Chap_05-09.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_D-ALYrQdq9o/Tcu0ruG93xI/AAAAAAAABRo/RJ6Vo51TnQ0/Phuong_The_Ngoc_Chap_05-10.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_D-ALYrQdq9o/Tcu0scBJmBI/AAAAAAAABRw/lRG7LS9ppuA/Phuong_The_Ngoc_Chap_05-11.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_D-ALYrQdq9o/Tcu0tnN753I/AAAAAAAABR4/CLSlcqrMCr0/Phuong_The_Ngoc_Chap_05-12.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_D-ALYrQdq9o/Tcu0uvquxOI/AAAAAAAABSI/fvJjy8ATjPo/Phuong_The_Ngoc_Chap_05-13.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_D-ALYrQdq9o/Tcu0vegjJwI/AAAAAAAABSQ/shp-KOF3DJc/Phuong_The_Ngoc_Chap_05-14.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_D-ALYrQdq9o/Tcu0wTLpYYI/AAAAAAAABSU/SHZHPy3gUC0/Phuong_The_Ngoc_Chap_05-15.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_D-ALYrQdq9o/Tcu0xe74QrI/AAAAAAAABSk/_v6zTtKCBLE/Phuong_The_Ngoc_Chap_05-16.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_D-ALYrQdq9o/Tcu0y3FLMRI/AAAAAAAABS0/phNm6Z4z0tM/Phuong_The_Ngoc_Chap_05-17.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_D-ALYrQdq9o/Tcu00lGEjyI/AAAAAAAABS8/imP2sPRgypU/Phuong_The_Ngoc_Chap_05-18.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_D-ALYrQdq9o/Tcu01bUHfQI/AAAAAAAABTI/DoW-vhAtvl4/Phuong_The_Ngoc_Chap_05-19.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_D-ALYrQdq9o/Tcu02ZosN3I/AAAAAAAABTc/tesgJ3dZFl0/Phuong_The_Ngoc_Chap_05-20.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_D-ALYrQdq9o/Tcu03YMCguI/AAAAAAAABTg/7vUlEtBVhUE/Phuong_The_Ngoc_Chap_05-21.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_D-ALYrQdq9o/Tcu04VIlZiI/AAAAAAAABTw/pmDrUhnbk_0/Phuong_The_Ngoc_Chap_05-22.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_D-ALYrQdq9o/Tcu05XXh_UI/AAAAAAAABT4/tdK95aZBszM/Phuong_The_Ngoc_Chap_05-23.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_D-ALYrQdq9o/Tcu06U2t-kI/AAAAAAAABUE/5sJJgRkn7gY/Phuong_The_Ngoc_Chap_05-24.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_D-ALYrQdq9o/Tcu07eDf_CI/AAAAAAAABUU/dExhPfXZK1E/Phuong_The_Ngoc_Chap_05-25.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_D-ALYrQdq9o/Tcu08ZBZbnI/AAAAAAAABUY/r0yoChEYc-Y/Phuong_The_Ngoc_Chap_05-26.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_D-ALYrQdq9o/Tcu09eDMK_I/AAAAAAAABUo/IHQWAKMz6NQ/Phuong_The_Ngoc_Chap_05-27.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_D-ALYrQdq9o/Tcu0-T2nMBI/AAAAAAAABUw/9CWhyfKQjR4/Phuong_The_Ngoc_Chap_05-28.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_D-ALYrQdq9o/Tcu0_exPNSI/AAAAAAAABVA/x6fTkgM6-ig/Phuong_The_Ngoc_Chap_05-30.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_D-ALYrQdq9o/Tcu1AJBjBcI/AAAAAAAABVI/7a9B_ENnSyo/Phuong_The_Ngoc_Chap_05-31.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://i2.wp.com/truyenvnhot.net/wp-content/uploads/2022/12/truyenvn-gg-banner.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  } ],
+  "toc" : null,
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}

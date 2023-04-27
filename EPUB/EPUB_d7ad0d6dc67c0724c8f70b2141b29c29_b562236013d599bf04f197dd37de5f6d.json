@@ -1,0 +1,246 @@
+{
+  "metadata" : {
+    "identifier" : "https://truyenvnhot.tv/phuong-the-ngoc",
+    "title" : "Phương Thế Ngọc",
+    "subtitle" : null,
+    "author" : null,
+    "narrator" : null,
+    "language" : "vi",
+    "description" : null,
+    "publisher" : "N/A",
+    "subject" : null,
+    "modified" : null,
+    "published" : "2023-04-27",
+    "duration" : 0,
+    "abridged" : false,
+    "conformsTo" : "https://readium.org/webpub-manifest/profiles/divina",
+    "numberOfPages" : 6,
+    "readingProgression" : "ttb",
+    "belongsTo" : null,
+    "presentation" : {
+      "fit" : "width",
+      "overflow" : "scrolled",
+      "continuous" : true
+    },
+    "@type" : null,
+    "schema:license" : null
+  },
+  "links" : [ {
+    "rel" : "self",
+    "href" : "https://raw.githubusercontent.com/thuvienonline40/book_storage_collection/main/comic_manifest.json",
+    "type" : "application/divina+json"
+  } ],
+  "readingOrder" : [ {
+    "href" : "https://1.bp.blogspot.com/_D-ALYrQdq9o/Tcuz_2sLobI/AAAAAAAABI4/WxIiv2PMapU/s1200/PhuongTheNgoc02-01.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_D-ALYrQdq9o/Tcu0CakskgI/AAAAAAAABJQ/EcxWc9EnH3c/s1200/PhuongTheNgoc02-02.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_D-ALYrQdq9o/Tcu0EORyUPI/AAAAAAAABJk/nw4scIxADAY/s1200/PhuongTheNgoc02-03.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_D-ALYrQdq9o/Tcu0Fm5O3lI/AAAAAAAABJ4/WT8dWzbv1Jg/s1200/PhuongTheNgoc02-04.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_D-ALYrQdq9o/Tcu0HGbummI/AAAAAAAABKY/zpF5fJmbP2c/s1200/PhuongTheNgoc02-05.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_D-ALYrQdq9o/Tcu0IuzYMDI/AAAAAAAABKo/8DJ291pikPM/s1200/PhuongTheNgoc02-06.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_D-ALYrQdq9o/Tcu0KBcTlrI/AAAAAAAABLA/yS7IyzxNwR0/s1200/PhuongTheNgoc02-07.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_D-ALYrQdq9o/Tcu0LXiksSI/AAAAAAAABLY/ndP8zRYh6MA/s1200/PhuongTheNgoc02-08.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_D-ALYrQdq9o/Tcu0NfremZI/AAAAAAAABLw/SthGeEpffFI/s1200/PhuongTheNgoc02-09.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_D-ALYrQdq9o/Tcu0PRCIruI/AAAAAAAABMA/_uoIWVQ9m1s/s1200/PhuongTheNgoc02-10.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_D-ALYrQdq9o/Tcu0QvOXzkI/AAAAAAAABMU/rEk1gCa_WiE/s1200/PhuongTheNgoc02-11.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_D-ALYrQdq9o/Tcu0SA58QaI/AAAAAAAABMg/d4Ie_MadiBA/s1200/PhuongTheNgoc02-12.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_D-ALYrQdq9o/Tcu0Teu6AvI/AAAAAAAABMw/KpOfpRsYznU/s1200/PhuongTheNgoc02-13.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_D-ALYrQdq9o/Tcu0VLN0SuI/AAAAAAAABNQ/yX_cwduO88A/s1200/PhuongTheNgoc02-14.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_D-ALYrQdq9o/Tcu0WuMkHcI/AAAAAAAABNo/R8BY07NEtqc/s1200/PhuongTheNgoc02-15.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_D-ALYrQdq9o/Tcu0YU4WP7I/AAAAAAAABN8/AmObRNfrUUo/s1200/PhuongTheNgoc02-16.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_D-ALYrQdq9o/Tcu0ZzcQB9I/AAAAAAAABOQ/rgZFIwSz0n4/s1200/PhuongTheNgoc02-17.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_D-ALYrQdq9o/Tcu0blH-zlI/AAAAAAAABOk/4atimkzfyPI/s1200/PhuongTheNgoc02-18.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_D-ALYrQdq9o/Tcu0dKfPXGI/AAAAAAAABO8/QjG7b9GRd44/s1200/PhuongTheNgoc02-19.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_D-ALYrQdq9o/Tcu0enhu5NI/AAAAAAAABPM/bVx_rs6yIvI/s1200/PhuongTheNgoc02-20.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_D-ALYrQdq9o/Tcu0gLcQcLI/AAAAAAAABPk/howJV_fr3WI/s1200/PhuongTheNgoc02-21.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_D-ALYrQdq9o/Tcu0iHG6qxI/AAAAAAAABPw/OXOg7uO9Rzo/s1200/PhuongTheNgoc02-22.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_D-ALYrQdq9o/Tcu0jks2IHI/AAAAAAAABQA/F2-v24H1TmI/s1200/PhuongTheNgoc02-23.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_D-ALYrQdq9o/Tcu0lMaSH9I/AAAAAAAABQU/BboEnQVaJEA/s1200/PhuongTheNgoc02-24.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_D-ALYrQdq9o/Tcu0maQ6aEI/AAAAAAAABQo/IqfMmUscvvg/s1200/PhuongTheNgoc02-25.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_D-ALYrQdq9o/Tcu0p55815I/AAAAAAAABRE/BiMmPv9s68Y/s1200/PhuongTheNgoc02-26.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_D-ALYrQdq9o/Tcu0rTnYMlI/AAAAAAAABRk/m151JLXodH0/s1200/PhuongTheNgoc02-27.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_D-ALYrQdq9o/Tcu0sr71DcI/AAAAAAAABR0/iW_Ghab36nI/s1200/PhuongTheNgoc02-28.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://1.bp.blogspot.com/_D-ALYrQdq9o/Tcu0t54u26I/AAAAAAAABSA/Uw3LyB4le9w/s1200/PhuongTheNgoc02-29.jpg?imgmax=0",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  }, {
+    "href" : "https://i2.wp.com/truyenvnhot.net/wp-content/uploads/2022/12/truyenvn-gg-banner.jpg",
+    "type" : "image/jpeg",
+    "bitrate" : 0,
+    "duration" : 0,
+    "title" : null,
+    "properties" : null
+  } ],
+  "toc" : null,
+  "@context" : "https://readium.org/webpub-manifest/context.jsonld"
+}
